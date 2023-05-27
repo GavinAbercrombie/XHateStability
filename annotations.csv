@@ -1,0 +1,2091 @@
+row, condition, annotator, label1, label2
+46, en-de, ann7, Hateful, Hateful
+46, en-de, ann11, Hateful, Hateful
+46, en-de, ann18, Hateful, Hateful
+46, en-de, ann14, Hateful, Hateful
+46, en-de, ann6, Hateful, Not hateful
+46, en-de, ann2, Hateful, Hateful
+46, en-de, ann10, Hateful, Hateful
+46, en-de, ann4, Hateful, Hateful
+46, en-de, ann17, Hateful, Hateful
+46, en-de, ann19, Hateful, Hateful
+46, en-de, ann22, Hateful, Hateful
+46, en-de, ann8, Not hateful, Hateful
+46, en-de, ann20, Hateful, Hateful
+46, en-de, ann13, Hateful, Hateful
+46, en-de, ann21, Hateful, Hateful
+46, en-de, ann15, Hateful, Hateful
+46, en-de, ann16, Hateful, Hateful
+46, en-de, ann9, Hateful, Hateful
+46, en-de, ann1, Hateful, Hateful
+46, en-de, ann5, Not hateful, Hateful
+46, en-de, ann3, Hateful, Hateful
+46, en-de, ann12, Hateful, Hateful
+16, en-en, ann7, Not hateful, Not hateful
+16, en-en, ann11, Not hateful, Not hateful
+16, en-en, ann18, Not hateful, Not hateful
+16, en-en, ann14, Not hateful, Not hateful
+16, en-en, ann6, Not hateful, Not hateful
+16, en-en, ann2, Not hateful, Not hateful
+16, en-en, ann10, Not hateful, Not hateful
+16, en-en, ann4, Hateful, Not hateful
+16, en-en, ann17, Hateful, Hateful
+16, en-en, ann19, Hateful, Not hateful
+16, en-en, ann22, Not hateful, Not hateful
+16, en-en, ann8, Not hateful, Not hateful
+16, en-en, ann20, Hateful, Not hateful
+16, en-en, ann13, Not hateful, Not hateful
+16, en-en, ann21, Hateful, Not hateful
+16, en-en, ann15, Hateful, Hateful
+16, en-en, ann16, Not hateful, Hateful
+16, en-en, ann9, Not hateful, Hateful
+16, en-en, ann1, Not hateful, Not hateful
+16, en-en, ann5, Not hateful, Not hateful
+16, en-en, ann3, Hateful, Not hateful
+16, en-en, ann12, Not hateful, Not hateful
+6, en-en, ann7, Not hateful, Not hateful
+6, en-en, ann11, Not hateful, Not hateful
+6, en-en, ann18, Not hateful, Not hateful
+6, en-en, ann14, Not hateful, Not hateful
+6, en-en, ann6, Not hateful, Not hateful
+6, en-en, ann2, Not hateful, Not hateful
+6, en-en, ann10, Not hateful, Not hateful
+6, en-en, ann4, Not hateful, Not hateful
+6, en-en, ann17, Not hateful, Not hateful
+6, en-en, ann19, Not hateful, Not hateful
+6, en-en, ann22, Not hateful, Not hateful
+6, en-en, ann8, Not hateful, Not hateful
+6, en-en, ann20, Not hateful, Hateful
+6, en-en, ann13, Not hateful, Not hateful
+6, en-en, ann21, Not hateful, Not hateful
+6, en-en, ann15, Not hateful, Not hateful
+6, en-en, ann16, Not hateful, Not hateful
+6, en-en, ann9, Not hateful, Not hateful
+6, en-en, ann1, Not hateful, Not hateful
+6, en-en, ann5, Not hateful, Not hateful
+6, en-en, ann3, Not hateful, Not hateful
+6, en-en, ann12, Not hateful, Not hateful
+5, en-en, ann7, Hateful, Not hateful
+5, en-en, ann11, Not hateful, Not hateful
+5, en-en, ann18, Hateful, Hateful
+5, en-en, ann14, Hateful, Hateful
+5, en-en, ann6, Hateful, Hateful
+5, en-en, ann2, Not hateful, Hateful
+5, en-en, ann10, Not hateful, Hateful
+5, en-en, ann4, Hateful, Hateful
+5, en-en, ann17, Hateful, Hateful
+5, en-en, ann19, Hateful, Hateful
+5, en-en, ann22, Hateful, Hateful
+5, en-en, ann8, Not hateful, Hateful
+5, en-en, ann20, Hateful, Hateful
+5, en-en, ann13, Hateful, Hateful
+5, en-en, ann21, Hateful, Hateful
+5, en-en, ann15, Hateful, Hateful
+5, en-en, ann16, Hateful, Hateful
+5, en-en, ann9, Not hateful, Hateful
+5, en-en, ann1, Not hateful, Hateful
+5, en-en, ann5, Not hateful, Not hateful
+5, en-en, ann3, Hateful, Hateful
+5, en-en, ann12, Not hateful, Hateful
+26, en-de, ann7, Not hateful, Not hateful
+26, en-de, ann11, Not hateful, Not hateful
+26, en-de, ann18, Not hateful, Not hateful
+26, en-de, ann14, Not hateful, Not hateful
+26, en-de, ann6, Not hateful, Not hateful
+26, en-de, ann2, Not hateful, Not hateful
+26, en-de, ann10, Not hateful, Not hateful
+26, en-de, ann4, Not hateful, Not hateful
+26, en-de, ann17, Hateful, Not hateful
+26, en-de, ann19, Not hateful, Not hateful
+26, en-de, ann22, Not hateful, Not hateful
+26, en-de, ann8, Not hateful, Not hateful
+26, en-de, ann20, Not hateful, Hateful
+26, en-de, ann13, Hateful, Hateful
+26, en-de, ann21, Hateful, Hateful
+26, en-de, ann15, Not hateful, Not hateful
+26, en-de, ann16, Not hateful, Not hateful
+26, en-de, ann9, Not hateful, Not hateful
+26, en-de, ann1, Not hateful, Not hateful
+26, en-de, ann5, Not hateful, Not hateful
+26, en-de, ann3, Hateful, Hateful
+26, en-de, ann12, Not hateful, Not hateful
+40, en-de, ann7, Hateful, Not hateful
+40, en-de, ann11, Not hateful, Hateful
+40, en-de, ann18, Not hateful, Not hateful
+40, en-de, ann14, Hateful, Not hateful
+40, en-de, ann6, Not hateful, Not hateful
+40, en-de, ann2, Hateful, Hateful
+40, en-de, ann10, Not hateful, Not hateful
+40, en-de, ann4, Not hateful, Not hateful
+40, en-de, ann17, Not hateful, Not hateful
+40, en-de, ann19, Hateful, Hateful
+40, en-de, ann22, Hateful, Not hateful
+40, en-de, ann8, Not hateful, Not hateful
+40, en-de, ann20, Hateful, Hateful
+40, en-de, ann13, Hateful, Hateful
+40, en-de, ann21, Hateful, Hateful
+40, en-de, ann15, Hateful, Hateful
+40, en-de, ann16, Hateful, Hateful
+40, en-de, ann9, Hateful, Hateful
+40, en-de, ann1, Not hateful, Not hateful
+40, en-de, ann5, Not hateful, Not hateful
+40, en-de, ann3, Hateful, Not hateful
+40, en-de, ann12, Hateful, Not hateful
+67, de-de, ann7, Not hateful, Not hateful
+67, de-de, ann11, Not hateful, Not hateful
+67, de-de, ann18, Not hateful, Not hateful
+67, de-de, ann14, Not hateful, Not hateful
+67, de-de, ann6, Not hateful, Not hateful
+67, de-de, ann2, Not hateful, Not hateful
+67, de-de, ann10, Not hateful, Not hateful
+67, de-de, ann4, Not hateful, Not hateful
+67, de-de, ann17, Not hateful, Not hateful
+67, de-de, ann19, Hateful, Hateful
+67, de-de, ann22, Not hateful, Not hateful
+67, de-de, ann8, Not hateful, Not hateful
+67, de-de, ann20, Not hateful, Not hateful
+67, de-de, ann13, Not hateful, Not hateful
+67, de-de, ann21, Not hateful, Not hateful
+67, de-de, ann15, Hateful, Hateful
+67, de-de, ann16, Not hateful, Not hateful
+67, de-de, ann9, Not hateful, Not hateful
+67, de-de, ann1, Not hateful, Not hateful
+67, de-de, ann5, Not hateful, Not hateful
+67, de-de, ann3, Hateful, Not hateful
+67, de-de, ann12, Not hateful, Not hateful
+76, de-en, ann7, Hateful, Hateful
+76, de-en, ann11, Not hateful, Not hateful
+76, de-en, ann18, Hateful, Hateful
+76, de-en, ann14, Hateful, Hateful
+76, de-en, ann6, Hateful, Not hateful
+76, de-en, ann2, Not hateful, Hateful
+76, de-en, ann10, Not hateful, Hateful
+76, de-en, ann4, Hateful, Hateful
+76, de-en, ann17, Hateful, Hateful
+76, de-en, ann19, Hateful, Hateful
+76, de-en, ann22, Hateful, Hateful
+76, de-en, ann8, Hateful, Hateful
+76, de-en, ann20, Hateful, Hateful
+76, de-en, ann13, Hateful, Hateful
+76, de-en, ann21, Not hateful, Hateful
+76, de-en, ann15, Hateful, Hateful
+76, de-en, ann16, Hateful, Hateful
+76, de-en, ann9, Hateful, Hateful
+76, de-en, ann1, Not hateful, Hateful
+76, de-en, ann5, Hateful, Not hateful
+76, de-en, ann3, Hateful, Hateful
+76, de-en, ann12, Hateful, Hateful
+23, en-en, ann7, Not hateful, Not hateful
+23, en-en, ann11, Hateful, Hateful
+23, en-en, ann18, Hateful, Not hateful
+23, en-en, ann14, Not hateful, Not hateful
+23, en-en, ann6, Not hateful, Not hateful
+23, en-en, ann2, Not hateful, Not hateful
+23, en-en, ann10, Not hateful, Not hateful
+23, en-en, ann4, Not hateful, Hateful
+23, en-en, ann17, Not hateful, Hateful
+23, en-en, ann19, Hateful, Hateful
+23, en-en, ann22, Not hateful, Not hateful
+23, en-en, ann8, Not hateful, Not hateful
+23, en-en, ann20, Not hateful, Hateful
+23, en-en, ann13, Hateful, Not hateful
+23, en-en, ann21, Not hateful, Hateful
+23, en-en, ann15, Hateful, Hateful
+23, en-en, ann16, Not hateful, Hateful
+23, en-en, ann9, Not hateful, Hateful
+23, en-en, ann1, Not hateful, Not hateful
+23, en-en, ann5, Not hateful, Not hateful
+23, en-en, ann3, Hateful, Hateful
+23, en-en, ann12, Not hateful, Not hateful
+10, en-en, ann7, Not hateful, Not hateful
+10, en-en, ann11, Not hateful, Not hateful
+10, en-en, ann18, Not hateful, Not hateful
+10, en-en, ann14, Not hateful, Not hateful
+10, en-en, ann6, Not hateful, Not hateful
+10, en-en, ann2, Not hateful, Not hateful
+10, en-en, ann10, Not hateful, Not hateful
+10, en-en, ann4, Not hateful, Not hateful
+10, en-en, ann17, Hateful, Not hateful
+10, en-en, ann19, Not hateful, Not hateful
+10, en-en, ann22, Not hateful, Not hateful
+10, en-en, ann8, Not hateful, Not hateful
+10, en-en, ann20, Not hateful, Not hateful
+10, en-en, ann13, Not hateful, Not hateful
+10, en-en, ann21, Not hateful, Not hateful
+10, en-en, ann15, Not hateful, Not hateful
+10, en-en, ann16, Not hateful, Not hateful
+10, en-en, ann9, Not hateful, Not hateful
+10, en-en, ann1, Not hateful, Not hateful
+10, en-en, ann5, Not hateful, Not hateful
+10, en-en, ann3, Not hateful, Not hateful
+10, en-en, ann12, Not hateful, Not hateful
+3, en-en, ann7, Hateful, Hateful
+3, en-en, ann11, Not hateful, Not hateful
+3, en-en, ann18, Hateful, Hateful
+3, en-en, ann14, Hateful, Hateful
+3, en-en, ann6, Hateful, Not hateful
+3, en-en, ann2, Hateful, Hateful
+3, en-en, ann10, Not hateful, Hateful
+3, en-en, ann4, Hateful, Hateful
+3, en-en, ann17, Hateful, Hateful
+3, en-en, ann19, Hateful, Hateful
+3, en-en, ann22, Not hateful, Hateful
+3, en-en, ann8, Hateful, Hateful
+3, en-en, ann20, Hateful, Not hateful
+3, en-en, ann13, Hateful, Hateful
+3, en-en, ann21, Not hateful, Not hateful
+3, en-en, ann15, Hateful, Hateful
+3, en-en, ann16, Hateful, Hateful
+3, en-en, ann9, Hateful, Hateful
+3, en-en, ann1, Not hateful, Not hateful
+3, en-en, ann5, Not hateful, Not hateful
+3, en-en, ann3, Hateful, Hateful
+3, en-en, ann12, Not hateful, Hateful
+31, en-de, ann7, Hateful, Hateful
+31, en-de, ann11, Not hateful, Not hateful
+31, en-de, ann18, Not hateful, Hateful
+31, en-de, ann14, Hateful, Not hateful
+31, en-de, ann6, Hateful, Hateful
+31, en-de, ann2, Not hateful, Not hateful
+31, en-de, ann10, Hateful, Hateful
+31, en-de, ann4, Hateful, Hateful
+31, en-de, ann17, Hateful, Hateful
+31, en-de, ann19, Hateful, Hateful
+31, en-de, ann22, Not hateful, Hateful
+31, en-de, ann8, Hateful, Hateful
+31, en-de, ann20, Hateful, Not hateful
+31, en-de, ann13, Hateful, Hateful
+31, en-de, ann21, Not hateful, Not hateful
+31, en-de, ann15, Hateful, Hateful
+31, en-de, ann16, Hateful, Hateful
+31, en-de, ann9, Not hateful, Not hateful
+31, en-de, ann1, Not hateful, Not hateful
+31, en-de, ann5, Not hateful, Hateful
+31, en-de, ann3, Hateful, Hateful
+31, en-de, ann12, Not hateful, Not hateful
+53, de-de, ann7, Not hateful, Not hateful
+53, de-de, ann11, Not hateful, Not hateful
+53, de-de, ann18, Not hateful, Hateful
+53, de-de, ann14, Not hateful, Not hateful
+53, de-de, ann6, Not hateful, Not hateful
+53, de-de, ann2, Not hateful, Not hateful
+53, de-de, ann10, Not hateful, Not hateful
+53, de-de, ann4, Not hateful, Not hateful
+53, de-de, ann17, Hateful, Hateful
+53, de-de, ann19, Hateful, Hateful
+53, de-de, ann22, Not hateful, Not hateful
+53, de-de, ann8, Not hateful, Not hateful
+53, de-de, ann20, Hateful, Not hateful
+53, de-de, ann13, Hateful, Hateful
+53, de-de, ann21, Not hateful, Not hateful
+53, de-de, ann15, Hateful, Hateful
+53, de-de, ann16, Hateful, Hateful
+53, de-de, ann9, Hateful, Not hateful
+53, de-de, ann1, Not hateful, Not hateful
+53, de-de, ann5, Not hateful, Not hateful
+53, de-de, ann3, Hateful, Hateful
+53, de-de, ann12, Not hateful, Not hateful
+48, en-de, ann7, Not hateful, Not hateful
+48, en-de, ann11, Not hateful, Not hateful
+48, en-de, ann18, Hateful, Hateful
+48, en-de, ann14, Hateful, Not hateful
+48, en-de, ann6, Not hateful, Not hateful
+48, en-de, ann2, Hateful, Hateful
+48, en-de, ann10, Hateful, Hateful
+48, en-de, ann4, Hateful, Hateful
+48, en-de, ann17, Hateful, Hateful
+48, en-de, ann19, Hateful, Hateful
+48, en-de, ann22, Hateful, Hateful
+48, en-de, ann8, Hateful, Hateful
+48, en-de, ann20, Not hateful, Hateful
+48, en-de, ann13, Hateful, Hateful
+48, en-de, ann21, Hateful, Hateful
+48, en-de, ann15, Hateful, Hateful
+48, en-de, ann16, Hateful, Hateful
+48, en-de, ann9, Hateful, Hateful
+48, en-de, ann1, Not hateful, Hateful
+48, en-de, ann5, Not hateful, Hateful
+48, en-de, ann3, Hateful, Hateful
+48, en-de, ann12, Not hateful, Not hateful
+21, en-en, ann7, Not hateful, Not hateful
+21, en-en, ann11, Not hateful, Not hateful
+21, en-en, ann18, Not hateful, Not hateful
+21, en-en, ann14, Hateful, Not hateful
+21, en-en, ann6, Not hateful, Not hateful
+21, en-en, ann2, Not hateful, Not hateful
+21, en-en, ann10, Not hateful, Not hateful
+21, en-en, ann4, Not hateful, Not hateful
+21, en-en, ann17, Not hateful, Not hateful
+21, en-en, ann19, Hateful, Not hateful
+21, en-en, ann22, Not hateful, Not hateful
+21, en-en, ann8, Not hateful, Not hateful
+21, en-en, ann20, Hateful, Hateful
+21, en-en, ann13, Hateful, Not hateful
+21, en-en, ann21, Not hateful, Not hateful
+21, en-en, ann15, Hateful, Not hateful
+21, en-en, ann16, Not hateful, Hateful
+21, en-en, ann9, Not hateful, Not hateful
+21, en-en, ann1, Not hateful, Not hateful
+21, en-en, ann5, Not hateful, Not hateful
+21, en-en, ann3, Hateful, Hateful
+21, en-en, ann12, Not hateful, Not hateful
+63, de-de, ann7, Not hateful, Not hateful
+63, de-de, ann11, Not hateful, Not hateful
+63, de-de, ann18, Not hateful, Not hateful
+63, de-de, ann14, Not hateful, Not hateful
+63, de-de, ann6, Not hateful, Not hateful
+63, de-de, ann2, Not hateful, Not hateful
+63, de-de, ann10, Not hateful, Not hateful
+63, de-de, ann4, Not hateful, Hateful
+63, de-de, ann17, Not hateful, Hateful
+63, de-de, ann19, Hateful, Hateful
+63, de-de, ann22, Not hateful, Hateful
+63, de-de, ann8, Not hateful, Not hateful
+63, de-de, ann20, Not hateful, Hateful
+63, de-de, ann13, Not hateful, Not hateful
+63, de-de, ann21, Not hateful, Hateful
+63, de-de, ann15, Hateful, Hateful
+63, de-de, ann16, Not hateful, Not hateful
+63, de-de, ann9, Not hateful, Not hateful
+63, de-de, ann1, Not hateful, Not hateful
+63, de-de, ann5, Not hateful, Not hateful
+63, de-de, ann3, Hateful, Hateful
+63, de-de, ann12, Not hateful, Not hateful
+64, de-de, ann7, Not hateful, Not hateful
+64, de-de, ann11, Not hateful, Not hateful
+64, de-de, ann18, Hateful, Hateful
+64, de-de, ann14, Hateful, Hateful
+64, de-de, ann6, Not hateful, Not hateful
+64, de-de, ann2, Not hateful, Not hateful
+64, de-de, ann10, Not hateful, Not hateful
+64, de-de, ann4, Hateful, Hateful
+64, de-de, ann17, Not hateful, Hateful
+64, de-de, ann19, Hateful, Hateful
+64, de-de, ann22, Not hateful, Not hateful
+64, de-de, ann8, Not hateful, Not hateful
+64, de-de, ann20, Hateful, Not hateful
+64, de-de, ann13, Not hateful, Hateful
+64, de-de, ann21, Not hateful, Not hateful
+64, de-de, ann15, Not hateful, Not hateful
+64, de-de, ann16, Not hateful, Not hateful
+64, de-de, ann9, Hateful, Hateful
+64, de-de, ann1, Not hateful, Not hateful
+64, de-de, ann5, Not hateful, Not hateful
+64, de-de, ann3, Hateful, Hateful
+64, de-de, ann12, Not hateful, Not hateful
+83, de-en, ann7, Not hateful, Not hateful
+83, de-en, ann11, Not hateful, Not hateful
+83, de-en, ann18, Not hateful, Not hateful
+83, de-en, ann14, Hateful, Hateful
+83, de-en, ann6, Not hateful, Not hateful
+83, de-en, ann2, Not hateful, Not hateful
+83, de-en, ann10, Not hateful, Hateful
+83, de-en, ann4, Hateful, Hateful
+83, de-en, ann17, Hateful, Hateful
+83, de-en, ann19, Hateful, Hateful
+83, de-en, ann22, Hateful, Hateful
+83, de-en, ann8, Hateful, Hateful
+83, de-en, ann20, Hateful, Not hateful
+83, de-en, ann13, Hateful, Hateful
+83, de-en, ann21, Not hateful, Hateful
+83, de-en, ann15, Hateful, Hateful
+83, de-en, ann16, Hateful, Hateful
+83, de-en, ann9, Hateful, Hateful
+83, de-en, ann1, Not hateful, Not hateful
+83, de-en, ann5, Not hateful, Not hateful
+83, de-en, ann3, Hateful, Hateful
+83, de-en, ann12, Not hateful, Not hateful
+8, en-en, ann7, Hateful, Not hateful
+8, en-en, ann11, Not hateful, Not hateful
+8, en-en, ann18, Hateful, Hateful
+8, en-en, ann14, Hateful, Not hateful
+8, en-en, ann6, Hateful, Hateful
+8, en-en, ann2, Not hateful, Hateful
+8, en-en, ann10, Hateful, Hateful
+8, en-en, ann4, Not hateful, Not hateful
+8, en-en, ann17, Hateful, Not hateful
+8, en-en, ann19, Hateful, Hateful
+8, en-en, ann22, Not hateful, Hateful
+8, en-en, ann8, Hateful, Not hateful
+8, en-en, ann20, Not hateful, Not hateful
+8, en-en, ann13, Hateful, Hateful
+8, en-en, ann21, Not hateful, Not hateful
+8, en-en, ann15, Hateful, Hateful
+8, en-en, ann16, Not hateful, Not hateful
+8, en-en, ann9, Not hateful, Not hateful
+8, en-en, ann1, Not hateful, Not hateful
+8, en-en, ann5, Not hateful, Not hateful
+8, en-en, ann3, Hateful, Hateful
+8, en-en, ann12, Not hateful, Not hateful
+90, de-en, ann7, Not hateful, Not hateful
+90, de-en, ann11, Not hateful, Not hateful
+90, de-en, ann18, Not hateful, Not hateful
+90, de-en, ann14, Not hateful, Not hateful
+90, de-en, ann6, Not hateful, Not hateful
+90, de-en, ann2, Not hateful, Not hateful
+90, de-en, ann10, Not hateful, Not hateful
+90, de-en, ann4, Not hateful, Not hateful
+90, de-en, ann17, Hateful, Hateful
+90, de-en, ann19, Hateful, Hateful
+90, de-en, ann22, Not hateful, Not hateful
+90, de-en, ann8, Hateful, Hateful
+90, de-en, ann20, Not hateful, Not hateful
+90, de-en, ann13, Hateful, Hateful
+90, de-en, ann21, Not hateful, Not hateful
+90, de-en, ann15, Not hateful, Not hateful
+90, de-en, ann16, Not hateful, Not hateful
+90, de-en, ann9, Not hateful, Not hateful
+90, de-en, ann1, Not hateful, Not hateful
+90, de-en, ann5, Not hateful, Not hateful
+90, de-en, ann3, Hateful, Hateful
+90, de-en, ann12, Not hateful, Not hateful
+97, de-en, ann7, Not hateful, Not hateful
+97, de-en, ann11, Not hateful, Not hateful
+97, de-en, ann18, Not hateful, Not hateful
+97, de-en, ann14, Not hateful, Not hateful
+97, de-en, ann6, Not hateful, Not hateful
+97, de-en, ann2, Not hateful, Not hateful
+97, de-en, ann10, Not hateful, Not hateful
+97, de-en, ann4, Not hateful, Not hateful
+97, de-en, ann17, Hateful, Not hateful
+97, de-en, ann19, Not hateful, Not hateful
+97, de-en, ann22, Not hateful, Not hateful
+97, de-en, ann8, Not hateful, Not hateful
+97, de-en, ann20, Hateful, Not hateful
+97, de-en, ann13, Not hateful, Not hateful
+97, de-en, ann21, Not hateful, Hateful
+97, de-en, ann15, Not hateful, Hateful
+97, de-en, ann16, Not hateful, Not hateful
+97, de-en, ann9, Not hateful, Not hateful
+97, de-en, ann1, Not hateful, Not hateful
+97, de-en, ann5, Not hateful, Not hateful
+97, de-en, ann3, Hateful, Not hateful
+97, de-en, ann12, Not hateful, Not hateful
+49, en-de, ann7, Not hateful, Not hateful
+49, en-de, ann11, Not hateful, Not hateful
+49, en-de, ann18, Not hateful, Not hateful
+49, en-de, ann14, Not hateful, Not hateful
+49, en-de, ann6, Not hateful, Not hateful
+49, en-de, ann2, Not hateful, Not hateful
+49, en-de, ann10, Not hateful, Not hateful
+49, en-de, ann4, Not hateful, Not hateful
+49, en-de, ann17, Not hateful, Not hateful
+49, en-de, ann19, Not hateful, Not hateful
+49, en-de, ann22, Not hateful, Not hateful
+49, en-de, ann8, Not hateful, Not hateful
+49, en-de, ann20, Not hateful, Not hateful
+49, en-de, ann13, Not hateful, Not hateful
+49, en-de, ann21, Not hateful, Hateful
+49, en-de, ann15, Not hateful, Not hateful
+49, en-de, ann16, Not hateful, Not hateful
+49, en-de, ann9, Not hateful, Not hateful
+49, en-de, ann1, Not hateful, Not hateful
+49, en-de, ann5, Not hateful, Not hateful
+49, en-de, ann3, Hateful, Hateful
+49, en-de, ann12, Not hateful, Not hateful
+74, de-en, ann7, Not hateful, Not hateful
+74, de-en, ann11, Not hateful, Hateful
+74, de-en, ann18, Not hateful, Not hateful
+74, de-en, ann14, Not hateful, Hateful
+74, de-en, ann6, Not hateful, Not hateful
+74, de-en, ann2, Not hateful, Not hateful
+74, de-en, ann10, Not hateful, Not hateful
+74, de-en, ann4, Not hateful, Hateful
+74, de-en, ann17, Hateful, Hateful
+74, de-en, ann19, Hateful, Hateful
+74, de-en, ann22, Not hateful, Not hateful
+74, de-en, ann8, Hateful, Not hateful
+74, de-en, ann20, Hateful, Not hateful
+74, de-en, ann13, Not hateful, Not hateful
+74, de-en, ann21, Not hateful, Hateful
+74, de-en, ann15, Hateful, Hateful
+74, de-en, ann16, Not hateful, Hateful
+74, de-en, ann9, Hateful, Not hateful
+74, de-en, ann1, Hateful, Hateful
+74, de-en, ann5, Not hateful, Not hateful
+74, de-en, ann3, Hateful, Hateful
+74, de-en, ann12, Not hateful, Not hateful
+58, de-de, ann7, Not hateful, Not hateful
+58, de-de, ann11, Not hateful, Not hateful
+58, de-de, ann18, Hateful, Hateful
+58, de-de, ann14, Not hateful, Not hateful
+58, de-de, ann6, Not hateful, Not hateful
+58, de-de, ann2, Not hateful, Hateful
+58, de-de, ann10, Not hateful, Hateful
+58, de-de, ann4, Hateful, Not hateful
+58, de-de, ann17, Hateful, Hateful
+58, de-de, ann19, Hateful, Hateful
+58, de-de, ann22, Hateful, Hateful
+58, de-de, ann8, Not hateful, Not hateful
+58, de-de, ann20, Hateful, Not hateful
+58, de-de, ann13, Hateful, Hateful
+58, de-de, ann21, Not hateful, Not hateful
+58, de-de, ann15, Hateful, Hateful
+58, de-de, ann16, Hateful, Hateful
+58, de-de, ann9, Hateful, Hateful
+58, de-de, ann1, Hateful, Not hateful
+58, de-de, ann5, Not hateful, Hateful
+58, de-de, ann3, Hateful, Hateful
+58, de-de, ann12, Hateful, Hateful
+24, en-en, ann7, Not hateful, Not hateful
+24, en-en, ann11, Hateful, Hateful
+24, en-en, ann18, Hateful, Hateful
+24, en-en, ann14, Not hateful, Not hateful
+24, en-en, ann6, Not hateful, Not hateful
+24, en-en, ann2, Hateful, Hateful
+24, en-en, ann10, Not hateful, Not hateful
+24, en-en, ann4, Hateful, Hateful
+24, en-en, ann17, Hateful, Hateful
+24, en-en, ann19, Hateful, Hateful
+24, en-en, ann22, Hateful, Not hateful
+24, en-en, ann8, Hateful, Not hateful
+24, en-en, ann20, Hateful, Hateful
+24, en-en, ann13, Not hateful, Hateful
+24, en-en, ann21, Hateful, Hateful
+24, en-en, ann15, Hateful, Hateful
+24, en-en, ann16, Hateful, Hateful
+24, en-en, ann9, Hateful, Hateful
+24, en-en, ann1, Not hateful, Not hateful
+24, en-en, ann5, Not hateful, Not hateful
+24, en-en, ann3, Hateful, Hateful
+24, en-en, ann12, Not hateful, Not hateful
+57, de-de, ann7, Not hateful, Not hateful
+57, de-de, ann11, Not hateful, Not hateful
+57, de-de, ann18, Not hateful, Not hateful
+57, de-de, ann14, Not hateful, Not hateful
+57, de-de, ann6, Not hateful, Not hateful
+57, de-de, ann2, Not hateful, Not hateful
+57, de-de, ann10, Not hateful, Not hateful
+57, de-de, ann4, Not hateful, Not hateful
+57, de-de, ann17, Hateful, Not hateful
+57, de-de, ann19, Hateful, Not hateful
+57, de-de, ann22, Not hateful, Not hateful
+57, de-de, ann8, Not hateful, Hateful
+57, de-de, ann20, Not hateful, Not hateful
+57, de-de, ann13, Not hateful, Not hateful
+57, de-de, ann21, Not hateful, Hateful
+57, de-de, ann15, Hateful, Not hateful
+57, de-de, ann16, Not hateful, Not hateful
+57, de-de, ann9, Not hateful, Not hateful
+57, de-de, ann1, Not hateful, Not hateful
+57, de-de, ann5, Not hateful, Not hateful
+57, de-de, ann3, Not hateful, Hateful
+57, de-de, ann12, Not hateful, Not hateful
+32, en-de, ann7, Not hateful, Not hateful
+32, en-de, ann11, Not hateful, Not hateful
+32, en-de, ann18, Not hateful, Not hateful
+32, en-de, ann14, Not hateful, Not hateful
+32, en-de, ann6, Not hateful, Not hateful
+32, en-de, ann2, Not hateful, Not hateful
+32, en-de, ann10, Not hateful, Not hateful
+32, en-de, ann4, Not hateful, Not hateful
+32, en-de, ann17, Not hateful, Not hateful
+32, en-de, ann19, Not hateful, Not hateful
+32, en-de, ann22, Not hateful, Not hateful
+32, en-de, ann8, Not hateful, Not hateful
+32, en-de, ann20, Not hateful, Not hateful
+32, en-de, ann13, Not hateful, Not hateful
+32, en-de, ann21, Not hateful, Not hateful
+32, en-de, ann15, Not hateful, Hateful
+32, en-de, ann16, Not hateful, Not hateful
+32, en-de, ann9, Not hateful, Not hateful
+32, en-de, ann1, Not hateful, Not hateful
+32, en-de, ann5, Not hateful, Not hateful
+32, en-de, ann3, Not hateful, Hateful
+32, en-de, ann12, Not hateful, Not hateful
+75, de-en, ann7, Not hateful, Not hateful
+75, de-en, ann11, Not hateful, Not hateful
+75, de-en, ann18, Not hateful, Not hateful
+75, de-en, ann14, Not hateful, Not hateful
+75, de-en, ann6, Not hateful, Not hateful
+75, de-en, ann2, Not hateful, Not hateful
+75, de-en, ann10, Not hateful, Not hateful
+75, de-en, ann4, Not hateful, Not hateful
+75, de-en, ann17, Not hateful, Not hateful
+75, de-en, ann19, Hateful, Hateful
+75, de-en, ann22, Not hateful, Not hateful
+75, de-en, ann8, Not hateful, Not hateful
+75, de-en, ann20, Hateful, Hateful
+75, de-en, ann13, Not hateful, Hateful
+75, de-en, ann21, Not hateful, Not hateful
+75, de-en, ann15, Not hateful, Not hateful
+75, de-en, ann16, Not hateful, Not hateful
+75, de-en, ann9, Not hateful, Not hateful
+75, de-en, ann1, Not hateful, Not hateful
+75, de-en, ann5, Not hateful, Not hateful
+75, de-en, ann3, Not hateful, Not hateful
+75, de-en, ann12, Not hateful, Not hateful
+91, de-en, ann7, Not hateful, Not hateful
+91, de-en, ann11, Not hateful, Hateful
+91, de-en, ann18, Hateful, Hateful
+91, de-en, ann14, Not hateful, Hateful
+91, de-en, ann6, Not hateful, Not hateful
+91, de-en, ann2, Not hateful, Hateful
+91, de-en, ann10, Not hateful, Not hateful
+91, de-en, ann4, Not hateful, Not hateful
+91, de-en, ann17, Hateful, Not hateful
+91, de-en, ann19, Hateful, Hateful
+91, de-en, ann22, Not hateful, Hateful
+91, de-en, ann8, Hateful, Hateful
+91, de-en, ann20, Not hateful, Not hateful
+91, de-en, ann13, Not hateful, Not hateful
+91, de-en, ann21, Hateful, Hateful
+91, de-en, ann15, Hateful, Hateful
+91, de-en, ann16, Not hateful, Hateful
+91, de-en, ann9, Hateful, Hateful
+91, de-en, ann1, Not hateful, Not hateful
+91, de-en, ann5, Not hateful, Not hateful
+91, de-en, ann3, Hateful, Hateful
+91, de-en, ann12, Not hateful, Not hateful
+25, en-en, ann7, Hateful, Hateful
+25, en-en, ann11, Not hateful, Not hateful
+25, en-en, ann18, Hateful, Not hateful
+25, en-en, ann14, Not hateful, Hateful
+25, en-en, ann6, Not hateful, Hateful
+25, en-en, ann2, Hateful, Hateful
+25, en-en, ann10, Hateful, Not hateful
+25, en-en, ann4, Hateful, Hateful
+25, en-en, ann17, Hateful, Hateful
+25, en-en, ann19, Hateful, Hateful
+25, en-en, ann22, Hateful, Hateful
+25, en-en, ann8, Hateful, Hateful
+25, en-en, ann20, Hateful, Hateful
+25, en-en, ann13, Hateful, Hateful
+25, en-en, ann21, Hateful, Hateful
+25, en-en, ann15, Hateful, Hateful
+25, en-en, ann16, Hateful, Hateful
+25, en-en, ann9, Not hateful, Not hateful
+25, en-en, ann1, Not hateful, Hateful
+25, en-en, ann5, Hateful, Not hateful
+25, en-en, ann3, Hateful, Hateful
+25, en-en, ann12, Not hateful, Not hateful
+15, en-en, ann7, Not hateful, Not hateful
+15, en-en, ann11, Hateful, Hateful
+15, en-en, ann18, Not hateful, Hateful
+15, en-en, ann14, Hateful, Not hateful
+15, en-en, ann6, Not hateful, Not hateful
+15, en-en, ann2, Not hateful, Not hateful
+15, en-en, ann10, Not hateful, Hateful
+15, en-en, ann4, Hateful, Hateful
+15, en-en, ann17, Hateful, Hateful
+15, en-en, ann19, Hateful, Hateful
+15, en-en, ann22, Hateful, Hateful
+15, en-en, ann8, Not hateful, Hateful
+15, en-en, ann20, Hateful, Hateful
+15, en-en, ann13, Hateful, Hateful
+15, en-en, ann21, Hateful, Hateful
+15, en-en, ann15, Hateful, Hateful
+15, en-en, ann16, Hateful, Hateful
+15, en-en, ann9, Hateful, Hateful
+15, en-en, ann1, Not hateful, Not hateful
+15, en-en, ann5, Not hateful, Not hateful
+15, en-en, ann3, Hateful, Hateful
+15, en-en, ann12, Hateful, Not hateful
+54, de-de, ann7, Not hateful, Not hateful
+54, de-de, ann11, Not hateful, Not hateful
+54, de-de, ann18, Not hateful, Not hateful
+54, de-de, ann14, Not hateful, Not hateful
+54, de-de, ann6, Not hateful, Not hateful
+54, de-de, ann2, Not hateful, Not hateful
+54, de-de, ann10, Not hateful, Not hateful
+54, de-de, ann4, Not hateful, Hateful
+54, de-de, ann17, Not hateful, Hateful
+54, de-de, ann19, Not hateful, Hateful
+54, de-de, ann22, Not hateful, Not hateful
+54, de-de, ann8, Not hateful, Not hateful
+54, de-de, ann20, Not hateful, Hateful
+54, de-de, ann13, Not hateful, Hateful
+54, de-de, ann21, Hateful, Not hateful
+54, de-de, ann15, Hateful, Hateful
+54, de-de, ann16, Not hateful, Hateful
+54, de-de, ann9, Not hateful, Not hateful
+54, de-de, ann1, Not hateful, Not hateful
+54, de-de, ann5, Not hateful, Not hateful
+54, de-de, ann3, Hateful, Hateful
+54, de-de, ann12, Not hateful, Not hateful
+71, de-de, ann7, Not hateful, Not hateful
+71, de-de, ann11, Hateful, Not hateful
+71, de-de, ann18, Not hateful, Hateful
+71, de-de, ann14, Not hateful, Not hateful
+71, de-de, ann6, Not hateful, Not hateful
+71, de-de, ann2, Not hateful, Hateful
+71, de-de, ann10, Not hateful, Hateful
+71, de-de, ann4, Hateful, Hateful
+71, de-de, ann17, Not hateful, Hateful
+71, de-de, ann19, Hateful, Hateful
+71, de-de, ann22, Hateful, Hateful
+71, de-de, ann8, Hateful, Not hateful
+71, de-de, ann20, Hateful, Hateful
+71, de-de, ann13, Hateful, Hateful
+71, de-de, ann21, Hateful, Hateful
+71, de-de, ann15, Hateful, Hateful
+71, de-de, ann16, Hateful, Hateful
+71, de-de, ann9, Hateful, Hateful
+71, de-de, ann1, Not hateful, Not hateful
+71, de-de, ann5, Not hateful, Not hateful
+71, de-de, ann3, Hateful, Hateful
+71, de-de, ann12, Not hateful, Not hateful
+37, en-de, ann7, Not hateful, Not hateful
+37, en-de, ann11, Not hateful, Not hateful
+37, en-de, ann18, Hateful, Hateful
+37, en-de, ann14, Hateful, Hateful
+37, en-de, ann6, Not hateful, Not hateful
+37, en-de, ann2, Hateful, Not hateful
+37, en-de, ann10, Not hateful, Hateful
+37, en-de, ann4, Hateful, Hateful
+37, en-de, ann17, Not hateful, Not hateful
+37, en-de, ann19, Hateful, Hateful
+37, en-de, ann22, Not hateful, Not hateful
+37, en-de, ann8, Hateful, Not hateful
+37, en-de, ann20, Hateful, Not hateful
+37, en-de, ann13, Hateful, Hateful
+37, en-de, ann21, Hateful, Hateful
+37, en-de, ann15, Hateful, Hateful
+37, en-de, ann16, Hateful, Hateful
+37, en-de, ann9, Hateful, Hateful
+37, en-de, ann1, Not hateful, Not hateful
+37, en-de, ann5, Not hateful, Not hateful
+37, en-de, ann3, Hateful, Hateful
+37, en-de, ann12, Hateful, Not hateful
+81, de-en, ann7, Hateful, Not hateful
+81, de-en, ann11, Hateful, Hateful
+81, de-en, ann18, Hateful, Hateful
+81, de-en, ann14, Hateful, Hateful
+81, de-en, ann6, Hateful, Not hateful
+81, de-en, ann2, Hateful, Hateful
+81, de-en, ann10, Hateful, Not hateful
+81, de-en, ann4, Hateful, Hateful
+81, de-en, ann17, Hateful, Hateful
+81, de-en, ann19, Hateful, Hateful
+81, de-en, ann22, Hateful, Not hateful
+81, de-en, ann8, Hateful, Hateful
+81, de-en, ann20, Hateful, Hateful
+81, de-en, ann13, Hateful, Hateful
+81, de-en, ann21, Hateful, Hateful
+81, de-en, ann15, Hateful, Hateful
+81, de-en, ann16, Hateful, Hateful
+81, de-en, ann9, Hateful, Hateful
+81, de-en, ann1, Hateful, Hateful
+81, de-en, ann5, Hateful, Not hateful
+81, de-en, ann3, Hateful, Hateful
+81, de-en, ann12, Hateful, Not hateful
+87, de-en, ann7, Hateful, Hateful
+87, de-en, ann11, Hateful, Not hateful
+87, de-en, ann18, Hateful, Hateful
+87, de-en, ann14, Hateful, Hateful
+87, de-en, ann6, Not hateful, Hateful
+87, de-en, ann2, Hateful, Hateful
+87, de-en, ann10, Hateful, Hateful
+87, de-en, ann4, Hateful, Hateful
+87, de-en, ann17, Hateful, Hateful
+87, de-en, ann19, Hateful, Hateful
+87, de-en, ann22, Hateful, Hateful
+87, de-en, ann8, Hateful, Hateful
+87, de-en, ann20, Hateful, Hateful
+87, de-en, ann13, Hateful, Hateful
+87, de-en, ann21, Hateful, Hateful
+87, de-en, ann15, Hateful, Hateful
+87, de-en, ann16, Hateful, Hateful
+87, de-en, ann9, Hateful, Hateful
+87, de-en, ann1, Not hateful, Not hateful
+87, de-en, ann5, Not hateful, Not hateful
+87, de-en, ann3, Hateful, Hateful
+87, de-en, ann12, Hateful, Hateful
+41, en-de, ann7, Hateful, Hateful
+41, en-de, ann11, Not hateful, Not hateful
+41, en-de, ann18, Hateful, Hateful
+41, en-de, ann14, Hateful, Hateful
+41, en-de, ann6, Not hateful, Not hateful
+41, en-de, ann2, Hateful, Not hateful
+41, en-de, ann10, Hateful, Hateful
+41, en-de, ann4, Hateful, Hateful
+41, en-de, ann17, Hateful, Hateful
+41, en-de, ann19, Hateful, Hateful
+41, en-de, ann22, Hateful, Hateful
+41, en-de, ann8, Hateful, Hateful
+41, en-de, ann20, Hateful, Hateful
+41, en-de, ann13, Hateful, Hateful
+41, en-de, ann21, Not hateful, Hateful
+41, en-de, ann15, Hateful, Hateful
+41, en-de, ann16, Not hateful, Hateful
+41, en-de, ann9, Hateful, Not hateful
+41, en-de, ann1, Not hateful, Not hateful
+41, en-de, ann5, Not hateful, Not hateful
+41, en-de, ann3, Hateful, Hateful
+41, en-de, ann12, Not hateful, Not hateful
+61, de-en, ann7, Hateful, Hateful
+61, de-en, ann11, Not hateful, Not hateful
+61, de-en, ann18, Hateful, Hateful
+61, de-en, ann14, Hateful, Not hateful
+61, de-en, ann6, Not hateful, Not hateful
+61, de-en, ann2, Not hateful, Not hateful
+61, de-en, ann10, Not hateful, Hateful
+61, de-en, ann4, Not hateful, Hateful
+61, de-en, ann17, Hateful, Hateful
+61, de-en, ann19, Hateful, Hateful
+61, de-en, ann22, Hateful, Not hateful
+61, de-en, ann8, Hateful, Not hateful
+61, de-en, ann20, Hateful, Hateful
+61, de-en, ann13, Hateful, Hateful
+61, de-en, ann21, Not hateful, Hateful
+61, de-en, ann15, Hateful, Hateful
+61, de-en, ann16, Not hateful, Not hateful
+61, de-en, ann9, Hateful, Hateful
+61, de-en, ann1, Not hateful, Not hateful
+61, de-en, ann5, Not hateful, Hateful
+61, de-en, ann3, Hateful, Hateful
+61, de-en, ann12, Not hateful, Not hateful
+20, en-en, ann7, Not hateful, Not hateful
+20, en-en, ann11, Not hateful, Not hateful
+20, en-en, ann18, Hateful, Hateful
+20, en-en, ann14, Not hateful, Hateful
+20, en-en, ann6, Not hateful, Not hateful
+20, en-en, ann2, Not hateful, Not hateful
+20, en-en, ann10, Not hateful, Not hateful
+20, en-en, ann4, Hateful, Hateful
+20, en-en, ann17, Not hateful, Hateful
+20, en-en, ann19, Hateful, Not hateful
+20, en-en, ann22, Not hateful, Not hateful
+20, en-en, ann8, Hateful, Hateful
+20, en-en, ann20, Hateful, Hateful
+20, en-en, ann13, Hateful, Hateful
+20, en-en, ann21, Hateful, Hateful
+20, en-en, ann15, Hateful, Hateful
+20, en-en, ann16, Not hateful, Not hateful
+20, en-en, ann9, Not hateful, Hateful
+20, en-en, ann1, Not hateful, Hateful
+20, en-en, ann5, Not hateful, Not hateful
+20, en-en, ann3, Hateful, Hateful
+20, en-en, ann12, Not hateful, Not hateful
+7, en-en, ann7, Hateful, Hateful
+7, en-en, ann11, Not hateful, Not hateful
+7, en-en, ann18, Hateful, Hateful
+7, en-en, ann14, Hateful, Hateful
+7, en-en, ann6, Hateful, Hateful
+7, en-en, ann2, Hateful, Hateful
+7, en-en, ann10, Hateful, Hateful
+7, en-en, ann4, Hateful, Hateful
+7, en-en, ann17, Hateful, Hateful
+7, en-en, ann19, Hateful, Hateful
+7, en-en, ann22, Hateful, Hateful
+7, en-en, ann8, Hateful, Hateful
+7, en-en, ann20, Hateful, Hateful
+7, en-en, ann13, Hateful, Hateful
+7, en-en, ann21, Hateful, Hateful
+7, en-en, ann15, Hateful, Hateful
+7, en-en, ann16, Hateful, Hateful
+7, en-en, ann9, Hateful, Hateful
+7, en-en, ann1, Not hateful, Not hateful
+7, en-en, ann5, Hateful, Hateful
+7, en-en, ann3, Hateful, Hateful
+7, en-en, ann12, Hateful, Hateful
+59, de-de, ann7, Not hateful, Not hateful
+59, de-de, ann11, Not hateful, Not hateful
+59, de-de, ann18, Hateful, Not hateful
+59, de-de, ann14, Not hateful, Not hateful
+59, de-de, ann6, Hateful, Hateful
+59, de-de, ann2, Not hateful, Not hateful
+59, de-de, ann10, Not hateful, Not hateful
+59, de-de, ann4, Not hateful, Hateful
+59, de-de, ann17, Hateful, Not hateful
+59, de-de, ann19, Hateful, Not hateful
+59, de-de, ann22, Not hateful, Not hateful
+59, de-de, ann8, Hateful, Hateful
+59, de-de, ann20, Hateful, Hateful
+59, de-de, ann13, Not hateful, Not hateful
+59, de-de, ann21, Not hateful, Not hateful
+59, de-de, ann15, Hateful, Hateful
+59, de-de, ann16, Hateful, Hateful
+59, de-de, ann9, Not hateful, Not hateful
+59, de-de, ann1, Not hateful, Not hateful
+59, de-de, ann5, Not hateful, Not hateful
+59, de-de, ann3, Hateful, Hateful
+59, de-de, ann12, Not hateful, Not hateful
+51, de-de, ann7, Not hateful, Not hateful
+51, de-de, ann11, Not hateful, Not hateful
+51, de-de, ann18, Hateful, Hateful
+51, de-de, ann14, Hateful, Not hateful
+51, de-de, ann6, Not hateful, Not hateful
+51, de-de, ann2, Not hateful, Hateful
+51, de-de, ann10, Hateful, Hateful
+51, de-de, ann4, Not hateful, Hateful
+51, de-de, ann17, Hateful, Hateful
+51, de-de, ann19, Hateful, Hateful
+51, de-de, ann22, Hateful, Not hateful
+51, de-de, ann8, Hateful, Hateful
+51, de-de, ann20, Not hateful, Not hateful
+51, de-de, ann13, Hateful, Hateful
+51, de-de, ann21, Hateful, Not hateful
+51, de-de, ann15, Hateful, Hateful
+51, de-de, ann16, Hateful, Hateful
+51, de-de, ann9, Not hateful, Hateful
+51, de-de, ann1, Not hateful, Not hateful
+51, de-de, ann5, Not hateful, Not hateful
+51, de-de, ann3, Hateful, Hateful
+51, de-de, ann12, Hateful, Hateful
+50, de-de, ann7, Hateful, Hateful
+50, de-de, ann11, Hateful, Not hateful
+50, de-de, ann18, Hateful, Hateful
+50, de-de, ann14, Hateful, Hateful
+50, de-de, ann6, Hateful, Hateful
+50, de-de, ann2, Hateful, Hateful
+50, de-de, ann10, Hateful, Hateful
+50, de-de, ann4, Hateful, Hateful
+50, de-de, ann17, Hateful, Hateful
+50, de-de, ann19, Hateful, Hateful
+50, de-de, ann22, Hateful, Hateful
+50, de-de, ann8, Hateful, Hateful
+50, de-de, ann20, Hateful, Not hateful
+50, de-de, ann13, Hateful, Hateful
+50, de-de, ann21, Hateful, Hateful
+50, de-de, ann15, Hateful, Hateful
+50, de-de, ann16, Hateful, Hateful
+50, de-de, ann9, Hateful, Hateful
+50, de-de, ann1, Not hateful, Not hateful
+50, de-de, ann5, Hateful, Not hateful
+50, de-de, ann3, Hateful, Hateful
+50, de-de, ann12, Hateful, Hateful
+30, en-de, ann7, Not hateful, Not hateful
+30, en-de, ann11, Not hateful, Not hateful
+30, en-de, ann18, Not hateful, Hateful
+30, en-de, ann14, Not hateful, Not hateful
+30, en-de, ann6, Not hateful, Not hateful
+30, en-de, ann2, Not hateful, Hateful
+30, en-de, ann10, Not hateful, Not hateful
+30, en-de, ann4, Hateful, Hateful
+30, en-de, ann17, Not hateful, Hateful
+30, en-de, ann19, Hateful, Hateful
+30, en-de, ann22, Hateful, Hateful
+30, en-de, ann8, Not hateful, Not hateful
+30, en-de, ann20, Hateful, Not hateful
+30, en-de, ann13, Not hateful, Not hateful
+30, en-de, ann21, Hateful, Hateful
+30, en-de, ann15, Hateful, Hateful
+30, en-de, ann16, Hateful, Hateful
+30, en-de, ann9, Hateful, Not hateful
+30, en-de, ann1, Not hateful, Not hateful
+30, en-de, ann5, Not hateful, Not hateful
+30, en-de, ann3, Hateful, Not hateful
+30, en-de, ann12, Not hateful, Not hateful
+38, en-de, ann7, Not hateful, Not hateful
+38, en-de, ann11, Hateful, Hateful
+38, en-de, ann18, Hateful, Hateful
+38, en-de, ann14, Hateful, Hateful
+38, en-de, ann6, Not hateful, Not hateful
+38, en-de, ann2, Not hateful, Hateful
+38, en-de, ann10, Hateful, Hateful
+38, en-de, ann4, Hateful, Hateful
+38, en-de, ann17, Hateful, Hateful
+38, en-de, ann19, Hateful, Hateful
+38, en-de, ann22, Hateful, Hateful
+38, en-de, ann8, Hateful, Hateful
+38, en-de, ann20, Hateful, Hateful
+38, en-de, ann13, Hateful, Hateful
+38, en-de, ann21, Hateful, Hateful
+38, en-de, ann15, Hateful, Hateful
+38, en-de, ann16, Hateful, Hateful
+38, en-de, ann9, Hateful, Hateful
+38, en-de, ann1, Hateful, Hateful
+38, en-de, ann5, Not hateful, Not hateful
+38, en-de, ann3, Hateful, Hateful
+38, en-de, ann12, Hateful, Not hateful
+92, de-en, ann7, Not hateful, Not hateful
+92, de-en, ann11, Not hateful, Not hateful
+92, de-en, ann18, Not hateful, Not hateful
+92, de-en, ann14, Not hateful, Not hateful
+92, de-en, ann6, Not hateful, Not hateful
+92, de-en, ann2, Not hateful, Not hateful
+92, de-en, ann10, Not hateful, Not hateful
+92, de-en, ann4, Hateful, Not hateful
+92, de-en, ann17, Not hateful, Not hateful
+92, de-en, ann19, Hateful, Not hateful
+92, de-en, ann22, Not hateful, Not hateful
+92, de-en, ann8, Not hateful, Not hateful
+92, de-en, ann20, Not hateful, Hateful
+92, de-en, ann13, Not hateful, Not hateful
+92, de-en, ann21, Hateful, Not hateful
+92, de-en, ann15, Not hateful, Hateful
+92, de-en, ann16, Not hateful, Not hateful
+92, de-en, ann9, Not hateful, Not hateful
+92, de-en, ann1, Not hateful, Not hateful
+92, de-en, ann5, Not hateful, Not hateful
+92, de-en, ann3, Hateful, Not hateful
+92, de-en, ann12, Not hateful, Not hateful
+9, en-en, ann7, Not hateful, Not hateful
+9, en-en, ann11, Not hateful, Hateful
+9, en-en, ann18, Not hateful, Not hateful
+9, en-en, ann14, Not hateful, Not hateful
+9, en-en, ann6, Not hateful, Not hateful
+9, en-en, ann2, Not hateful, Not hateful
+9, en-en, ann10, Not hateful, Not hateful
+9, en-en, ann4, Hateful, Hateful
+9, en-en, ann17, Not hateful, Not hateful
+9, en-en, ann19, Hateful, Hateful
+9, en-en, ann22, Not hateful, Not hateful
+9, en-en, ann8, Hateful, Not hateful
+9, en-en, ann20, Not hateful, Hateful
+9, en-en, ann13, Not hateful, Not hateful
+9, en-en, ann21, Hateful, Not hateful
+9, en-en, ann15, Hateful, Hateful
+9, en-en, ann16, Not hateful, Hateful
+9, en-en, ann9, Not hateful, Hateful
+9, en-en, ann1, Not hateful, Not hateful
+9, en-en, ann5, Not hateful, Not hateful
+9, en-en, ann3, Hateful, Hateful
+9, en-en, ann12, Not hateful, Not hateful
+55, de-de, ann7, Not hateful, Hateful
+55, de-de, ann11, Hateful, Hateful
+55, de-de, ann18, Hateful, Hateful
+55, de-de, ann14, Hateful, Hateful
+55, de-de, ann6, Hateful, Hateful
+55, de-de, ann2, Hateful, Hateful
+55, de-de, ann10, Hateful, Hateful
+55, de-de, ann4, Hateful, Hateful
+55, de-de, ann17, Hateful, Hateful
+55, de-de, ann19, Hateful, Hateful
+55, de-de, ann22, Hateful, Hateful
+55, de-de, ann8, Hateful, Hateful
+55, de-de, ann20, Hateful, Hateful
+55, de-de, ann13, Hateful, Hateful
+55, de-de, ann21, Hateful, Hateful
+55, de-de, ann15, Hateful, Hateful
+55, de-de, ann16, Hateful, Hateful
+55, de-de, ann9, Hateful, Hateful
+55, de-de, ann1, Not hateful, Hateful
+55, de-de, ann5, Hateful, Not hateful
+55, de-de, ann3, Hateful, Hateful
+55, de-de, ann12, Hateful, Hateful
+11, en-en, ann7, Hateful, Hateful
+11, en-en, ann11, Not hateful, Hateful
+11, en-en, ann18, Hateful, Hateful
+11, en-en, ann14, Hateful, Hateful
+11, en-en, ann6, Hateful, Hateful
+11, en-en, ann2, Hateful, Not hateful
+11, en-en, ann10, Not hateful, Hateful
+11, en-en, ann4, Hateful, Hateful
+11, en-en, ann17, Hateful, Hateful
+11, en-en, ann19, Hateful, Hateful
+11, en-en, ann22, Hateful, Not hateful
+11, en-en, ann8, Hateful, Hateful
+11, en-en, ann20, Hateful, Not hateful
+11, en-en, ann13, Hateful, Hateful
+11, en-en, ann21, Hateful, Not hateful
+11, en-en, ann15, Hateful, Hateful
+11, en-en, ann16, Not hateful, Hateful
+11, en-en, ann9, Hateful, Hateful
+11, en-en, ann1, Not hateful, Not hateful
+11, en-en, ann5, Not hateful, Not hateful
+11, en-en, ann3, Hateful, Hateful
+11, en-en, ann12, Hateful, Hateful
+29, en-de, ann7, Hateful, Hateful
+29, en-de, ann11, Hateful, Hateful
+29, en-de, ann18, Hateful, Hateful
+29, en-de, ann14, Not hateful, Not hateful
+29, en-de, ann6, Not hateful, Not hateful
+29, en-de, ann2, Not hateful, Hateful
+29, en-de, ann10, Hateful, Hateful
+29, en-de, ann4, Hateful, Hateful
+29, en-de, ann17, Hateful, Hateful
+29, en-de, ann19, Hateful, Hateful
+29, en-de, ann22, Hateful, Hateful
+29, en-de, ann8, Hateful, Hateful
+29, en-de, ann20, Hateful, Not hateful
+29, en-de, ann13, Hateful, Hateful
+29, en-de, ann21, Hateful, Hateful
+29, en-de, ann15, Hateful, Hateful
+29, en-de, ann16, Hateful, Hateful
+29, en-de, ann9, Hateful, Not hateful
+29, en-de, ann1, Not hateful, Not hateful
+29, en-de, ann5, Not hateful, Not hateful
+29, en-de, ann3, Hateful, Hateful
+29, en-de, ann12, Hateful, Not hateful
+56, de-de, ann7, Hateful, Hateful
+56, de-de, ann11, Not hateful, Not hateful
+56, de-de, ann18, Hateful, Hateful
+56, de-de, ann14, Not hateful, Hateful
+56, de-de, ann6, Hateful, Hateful
+56, de-de, ann2, Not hateful, Hateful
+56, de-de, ann10, Hateful, Not hateful
+56, de-de, ann4, Not hateful, Hateful
+56, de-de, ann17, Hateful, Not hateful
+56, de-de, ann19, Hateful, Hateful
+56, de-de, ann22, Hateful, Hateful
+56, de-de, ann8, Hateful, Not hateful
+56, de-de, ann20, Hateful, Hateful
+56, de-de, ann13, Hateful, Hateful
+56, de-de, ann21, Hateful, Hateful
+56, de-de, ann15, Hateful, Hateful
+56, de-de, ann16, Hateful, Hateful
+56, de-de, ann9, Hateful, Hateful
+56, de-de, ann1, Hateful, Not hateful
+56, de-de, ann5, Hateful, Not hateful
+56, de-de, ann3, Hateful, Hateful
+56, de-de, ann12, Hateful, Not hateful
+43, en-de, ann7, Not hateful, Hateful
+43, en-de, ann11, Hateful, Hateful
+43, en-de, ann18, Hateful, Hateful
+43, en-de, ann14, Hateful, Hateful
+43, en-de, ann6, Hateful, Hateful
+43, en-de, ann2, Hateful, Hateful
+43, en-de, ann10, Not hateful, Hateful
+43, en-de, ann4, Hateful, Hateful
+43, en-de, ann17, Hateful, Hateful
+43, en-de, ann19, Hateful, Hateful
+43, en-de, ann22, Hateful, Hateful
+43, en-de, ann8, Hateful, Hateful
+43, en-de, ann20, Hateful, Not hateful
+43, en-de, ann13, Hateful, Hateful
+43, en-de, ann21, Hateful, Hateful
+43, en-de, ann15, Hateful, Hateful
+43, en-de, ann16, Hateful, Hateful
+43, en-de, ann9, Hateful, Hateful
+43, en-de, ann1, Not hateful, Hateful
+43, en-de, ann5, Hateful, Not hateful
+43, en-de, ann3, Hateful, Hateful
+43, en-de, ann12, Hateful, Hateful
+28, en-de, ann7, Not hateful, Not hateful
+28, en-de, ann11, Hateful, Hateful
+28, en-de, ann18, Hateful, Hateful
+28, en-de, ann14, Hateful, Hateful
+28, en-de, ann6, Hateful, Hateful
+28, en-de, ann2, Hateful, Hateful
+28, en-de, ann10, Hateful, Not hateful
+28, en-de, ann4, Hateful, Hateful
+28, en-de, ann17, Hateful, Hateful
+28, en-de, ann19, Hateful, Hateful
+28, en-de, ann22, Hateful, Hateful
+28, en-de, ann8, Hateful, Hateful
+28, en-de, ann20, Not hateful, Hateful
+28, en-de, ann13, Hateful, Hateful
+28, en-de, ann21, Hateful, Hateful
+28, en-de, ann15, Hateful, Hateful
+28, en-de, ann16, Hateful, Hateful
+28, en-de, ann9, Hateful, Hateful
+28, en-de, ann1, Not hateful, Hateful
+28, en-de, ann5, Not hateful, Not hateful
+28, en-de, ann3, Hateful, Hateful
+28, en-de, ann12, Hateful, Hateful
+68, de-de, ann7, Not hateful, Not hateful
+68, de-de, ann11, Not hateful, Not hateful
+68, de-de, ann18, Not hateful, Not hateful
+68, de-de, ann14, Not hateful, Not hateful
+68, de-de, ann6, Not hateful, Not hateful
+68, de-de, ann2, Not hateful, Not hateful
+68, de-de, ann10, Hateful, Not hateful
+68, de-de, ann4, Not hateful, Not hateful
+68, de-de, ann17, Not hateful, Not hateful
+68, de-de, ann19, Hateful, Hateful
+68, de-de, ann22, Not hateful, Not hateful
+68, de-de, ann8, Not hateful, Not hateful
+68, de-de, ann20, Not hateful, Hateful
+68, de-de, ann13, Not hateful, Not hateful
+68, de-de, ann21, Not hateful, Not hateful
+68, de-de, ann15, Not hateful, Not hateful
+68, de-de, ann16, Not hateful, Hateful
+68, de-de, ann9, Not hateful, Not hateful
+68, de-de, ann1, Not hateful, Not hateful
+68, de-de, ann5, Not hateful, Not hateful
+68, de-de, ann3, Hateful, Hateful
+68, de-de, ann12, Not hateful, Not hateful
+39, en-de, ann7, Not hateful, Not hateful
+39, en-de, ann11, Not hateful, Not hateful
+39, en-de, ann18, Hateful, Hateful
+39, en-de, ann14, Not hateful, Hateful
+39, en-de, ann6, Not hateful, Not hateful
+39, en-de, ann2, Not hateful, Not hateful
+39, en-de, ann10, Not hateful, Not hateful
+39, en-de, ann4, Hateful, Hateful
+39, en-de, ann17, Not hateful, Hateful
+39, en-de, ann19, Hateful, Hateful
+39, en-de, ann22, Not hateful, Not hateful
+39, en-de, ann8, Not hateful, Hateful
+39, en-de, ann20, Hateful, Hateful
+39, en-de, ann13, Not hateful, Hateful
+39, en-de, ann21, Not hateful, Hateful
+39, en-de, ann15, Not hateful, Hateful
+39, en-de, ann16, Not hateful, Not hateful
+39, en-de, ann9, Not hateful, Hateful
+39, en-de, ann1, Not hateful, Not hateful
+39, en-de, ann5, Not hateful, Not hateful
+39, en-de, ann3, Hateful, Hateful
+39, en-de, ann12, Not hateful, Not hateful
+78, de-en, ann7, Hateful, Hateful
+78, de-en, ann11, Hateful, Hateful
+78, de-en, ann18, Hateful, Hateful
+78, de-en, ann14, Hateful, Hateful
+78, de-en, ann6, Not hateful, Hateful
+78, de-en, ann2, Not hateful, Hateful
+78, de-en, ann10, Hateful, Hateful
+78, de-en, ann4, Hateful, Hateful
+78, de-en, ann17, Hateful, Hateful
+78, de-en, ann19, Hateful, Hateful
+78, de-en, ann22, Hateful, Hateful
+78, de-en, ann8, Hateful, Hateful
+78, de-en, ann20, Hateful, Not hateful
+78, de-en, ann13, Hateful, Hateful
+78, de-en, ann21, Hateful, Hateful
+78, de-en, ann15, Hateful, Hateful
+78, de-en, ann16, Hateful, Hateful
+78, de-en, ann9, Hateful, Hateful
+78, de-en, ann1, Not hateful, Hateful
+78, de-en, ann5, Not hateful, Not hateful
+78, de-en, ann3, Hateful, Hateful
+78, de-en, ann12, Hateful, Not hateful
+82, de-en, ann7, Hateful, Not hateful
+82, de-en, ann11, Hateful, Not hateful
+82, de-en, ann18, Not hateful, Not hateful
+82, de-en, ann14, Not hateful, Not hateful
+82, de-en, ann6, Not hateful, Not hateful
+82, de-en, ann2, Hateful, Not hateful
+82, de-en, ann10, Not hateful, Not hateful
+82, de-en, ann4, Hateful, Not hateful
+82, de-en, ann17, Hateful, Hateful
+82, de-en, ann19, Hateful, Hateful
+82, de-en, ann22, Hateful, Not hateful
+82, de-en, ann8, Hateful, Hateful
+82, de-en, ann20, Not hateful, Hateful
+82, de-en, ann13, Not hateful, Not hateful
+82, de-en, ann21, Hateful, Not hateful
+82, de-en, ann15, Hateful, Hateful
+82, de-en, ann16, Not hateful, Not hateful
+82, de-en, ann9, Not hateful, Not hateful
+82, de-en, ann1, Not hateful, Not hateful
+82, de-en, ann5, Not hateful, Not hateful
+82, de-en, ann3, Hateful, Hateful
+82, de-en, ann12, Hateful, Not hateful
+35, en-de, ann7, Not hateful, Not hateful
+35, en-de, ann11, Not hateful, Not hateful
+35, en-de, ann18, Not hateful, Not hateful
+35, en-de, ann14, Not hateful, Not hateful
+35, en-de, ann6, Not hateful, Not hateful
+35, en-de, ann2, Not hateful, Not hateful
+35, en-de, ann10, Not hateful, Not hateful
+35, en-de, ann4, Not hateful, Not hateful
+35, en-de, ann17, Not hateful, Not hateful
+35, en-de, ann19, Hateful, Hateful
+35, en-de, ann22, Not hateful, Not hateful
+35, en-de, ann8, Not hateful, Not hateful
+35, en-de, ann20, Not hateful, Hateful
+35, en-de, ann13, Not hateful, Not hateful
+35, en-de, ann21, Not hateful, Not hateful
+35, en-de, ann15, Not hateful, Not hateful
+35, en-de, ann16, Not hateful, Not hateful
+35, en-de, ann9, Not hateful, Hateful
+35, en-de, ann1, Not hateful, Not hateful
+35, en-de, ann5, Not hateful, Not hateful
+35, en-de, ann3, Hateful, Hateful
+35, en-de, ann12, Not hateful, Not hateful
+85, de-en, ann7, Hateful, Not hateful
+85, de-en, ann11, Hateful, Hateful
+85, de-en, ann18, Hateful, Hateful
+85, de-en, ann14, Hateful, Hateful
+85, de-en, ann6, Hateful, Hateful
+85, de-en, ann2, Hateful, Hateful
+85, de-en, ann10, Hateful, Hateful
+85, de-en, ann4, Hateful, Hateful
+85, de-en, ann17, Hateful, Hateful
+85, de-en, ann19, Hateful, Hateful
+85, de-en, ann22, Hateful, Hateful
+85, de-en, ann8, Hateful, Hateful
+85, de-en, ann20, Hateful, Hateful
+85, de-en, ann13, Hateful, Hateful
+85, de-en, ann21, Hateful, Hateful
+85, de-en, ann15, Hateful, Hateful
+85, de-en, ann16, Hateful, Hateful
+85, de-en, ann9, Not hateful, Hateful
+85, de-en, ann1, Not hateful, Not hateful
+85, de-en, ann5, Not hateful, Not hateful
+85, de-en, ann3, Hateful, Hateful
+85, de-en, ann12, Hateful, Hateful
+70, de-de, ann7, Not hateful, Not hateful
+70, de-de, ann11, Hateful, Hateful
+70, de-de, ann18, Not hateful, Not hateful
+70, de-de, ann14, Not hateful, Not hateful
+70, de-de, ann6, Not hateful, Not hateful
+70, de-de, ann2, Not hateful, Hateful
+70, de-de, ann10, Not hateful, Not hateful
+70, de-de, ann4, Not hateful, Hateful
+70, de-de, ann17, Not hateful, Not hateful
+70, de-de, ann19, Not hateful, Hateful
+70, de-de, ann22, Not hateful, Not hateful
+70, de-de, ann8, Not hateful, Not hateful
+70, de-de, ann20, Not hateful, Not hateful
+70, de-de, ann13, Not hateful, Not hateful
+70, de-de, ann21, Not hateful, Hateful
+70, de-de, ann15, Not hateful, Not hateful
+70, de-de, ann16, Not hateful, Not hateful
+70, de-de, ann9, Not hateful, Not hateful
+70, de-de, ann1, Hateful, Not hateful
+70, de-de, ann5, Not hateful, Not hateful
+70, de-de, ann3, Hateful, Hateful
+70, de-de, ann12, Not hateful, Not hateful
+86, de-en, ann7, Not hateful, Hateful
+86, de-en, ann11, Not hateful, Not hateful
+86, de-en, ann18, Not hateful, Not hateful
+86, de-en, ann14, Not hateful, Not hateful
+86, de-en, ann6, Not hateful, Not hateful
+86, de-en, ann2, Not hateful, Not hateful
+86, de-en, ann10, Not hateful, Not hateful
+86, de-en, ann4, Not hateful, Not hateful
+86, de-en, ann17, Not hateful, Not hateful
+86, de-en, ann19, Hateful, Hateful
+86, de-en, ann22, Not hateful, Not hateful
+86, de-en, ann8, Hateful, Not hateful
+86, de-en, ann20, Hateful, Hateful
+86, de-en, ann13, Not hateful, Hateful
+86, de-en, ann21, Not hateful, Not hateful
+86, de-en, ann15, Hateful, Hateful
+86, de-en, ann16, Not hateful, Not hateful
+86, de-en, ann9, Not hateful, Not hateful
+86, de-en, ann1, Not hateful, Not hateful
+86, de-en, ann5, Not hateful, Not hateful
+86, de-en, ann3, Hateful, Not hateful
+86, de-en, ann12, Not hateful, Not hateful
+93, de-en, ann7, Not hateful, Not hateful
+93, de-en, ann11, Not hateful, Not hateful
+93, de-en, ann18, Hateful, Hateful
+93, de-en, ann14, Not hateful, Not hateful
+93, de-en, ann6, Not hateful, Not hateful
+93, de-en, ann2, Hateful, Hateful
+93, de-en, ann10, Not hateful, Hateful
+93, de-en, ann4, Hateful, Hateful
+93, de-en, ann17, Hateful, Hateful
+93, de-en, ann19, Hateful, Hateful
+93, de-en, ann22, Not hateful, Not hateful
+93, de-en, ann8, Hateful, Hateful
+93, de-en, ann20, Hateful, Hateful
+93, de-en, ann13, Hateful, Hateful
+93, de-en, ann21, Hateful, Hateful
+93, de-en, ann15, Hateful, Hateful
+93, de-en, ann16, Hateful, Hateful
+93, de-en, ann9, Not hateful, Not hateful
+93, de-en, ann1, Not hateful, Not hateful
+93, de-en, ann5, Not hateful, Not hateful
+93, de-en, ann3, Hateful, Hateful
+93, de-en, ann12, Not hateful, Hateful
+96, de-en, ann7, Not hateful, Not hateful
+96, de-en, ann11, Not hateful, Not hateful
+96, de-en, ann18, Not hateful, Not hateful
+96, de-en, ann14, Not hateful, Not hateful
+96, de-en, ann6, Not hateful, Not hateful
+96, de-en, ann2, Not hateful, Not hateful
+96, de-en, ann10, Not hateful, Not hateful
+96, de-en, ann4, Not hateful, Not hateful
+96, de-en, ann17, Not hateful, Not hateful
+96, de-en, ann19, Not hateful, Not hateful
+96, de-en, ann22, Not hateful, Not hateful
+96, de-en, ann8, Not hateful, Not hateful
+96, de-en, ann20, Not hateful, Not hateful
+96, de-en, ann13, Not hateful, Not hateful
+96, de-en, ann21, Not hateful, Not hateful
+96, de-en, ann15, Not hateful, Not hateful
+96, de-en, ann16, Not hateful, Not hateful
+96, de-en, ann9, Not hateful, Not hateful
+96, de-en, ann1, Not hateful, Not hateful
+96, de-en, ann5, Not hateful, Not hateful
+96, de-en, ann3, Not hateful, Not hateful
+96, de-en, ann12, Not hateful, Not hateful
+89, de-en, ann7, Hateful, Hateful
+89, de-en, ann11, Hateful, Hateful
+89, de-en, ann18, Not hateful, Hateful
+89, de-en, ann14, Hateful, Hateful
+89, de-en, ann6, Hateful, Not hateful
+89, de-en, ann2, Hateful, Not hateful
+89, de-en, ann10, Hateful, Hateful
+89, de-en, ann4, Hateful, Hateful
+89, de-en, ann17, Hateful, Hateful
+89, de-en, ann19, Hateful, Hateful
+89, de-en, ann22, Hateful, Hateful
+89, de-en, ann8, Hateful, Hateful
+89, de-en, ann20, Hateful, Hateful
+89, de-en, ann13, Hateful, Hateful
+89, de-en, ann21, Not hateful, Hateful
+89, de-en, ann15, Hateful, Hateful
+89, de-en, ann16, Hateful, Hateful
+89, de-en, ann9, Hateful, Hateful
+89, de-en, ann1, Hateful, Hateful
+89, de-en, ann5, Not hateful, Not hateful
+89, de-en, ann3, Hateful, Hateful
+89, de-en, ann12, Hateful, Hateful
+4, en-en, ann7, Not hateful, Not hateful
+4, en-en, ann11, Not hateful, Not hateful
+4, en-en, ann18, Hateful, Hateful
+4, en-en, ann14, Not hateful, Not hateful
+4, en-en, ann6, Not hateful, Not hateful
+4, en-en, ann2, Not hateful, Not hateful
+4, en-en, ann10, Not hateful, Not hateful
+4, en-en, ann4, Hateful, Hateful
+4, en-en, ann17, Not hateful, Hateful
+4, en-en, ann19, Hateful, Hateful
+4, en-en, ann22, Not hateful, Not hateful
+4, en-en, ann8, Not hateful, Hateful
+4, en-en, ann20, Hateful, Not hateful
+4, en-en, ann13, Hateful, Hateful
+4, en-en, ann21, Not hateful, Hateful
+4, en-en, ann15, Hateful, Hateful
+4, en-en, ann16, Not hateful, Hateful
+4, en-en, ann9, Not hateful, Not hateful
+4, en-en, ann1, Not hateful, Not hateful
+4, en-en, ann5, Not hateful, Not hateful
+4, en-en, ann3, Hateful, Hateful
+4, en-en, ann12, Not hateful, Not hateful
+94, de-en, ann7, Hateful, Not hateful
+94, de-en, ann11, Not hateful, Not hateful
+94, de-en, ann18, Hateful, Hateful
+94, de-en, ann14, Hateful, Hateful
+94, de-en, ann6, Not hateful, Not hateful
+94, de-en, ann2, Hateful, Hateful
+94, de-en, ann10, Not hateful, Not hateful
+94, de-en, ann4, Hateful, Hateful
+94, de-en, ann17, Not hateful, Not hateful
+94, de-en, ann19, Hateful, Hateful
+94, de-en, ann22, Not hateful, Hateful
+94, de-en, ann8, Hateful, Hateful
+94, de-en, ann20, Hateful, Not hateful
+94, de-en, ann13, Not hateful, Not hateful
+94, de-en, ann21, Hateful, Hateful
+94, de-en, ann15, Hateful, Hateful
+94, de-en, ann16, Hateful, Hateful
+94, de-en, ann9, Hateful, Hateful
+94, de-en, ann1, Not hateful, Hateful
+94, de-en, ann5, Not hateful, Not hateful
+94, de-en, ann3, Hateful, Hateful
+94, de-en, ann12, Hateful, Not hateful
+17, en-en, ann7, Hateful, Not hateful
+17, en-en, ann11, Not hateful, Hateful
+17, en-en, ann18, Hateful, Hateful
+17, en-en, ann14, Hateful, Hateful
+17, en-en, ann6, Not hateful, Not hateful
+17, en-en, ann2, Hateful, Hateful
+17, en-en, ann10, Not hateful, Hateful
+17, en-en, ann4, Hateful, Not hateful
+17, en-en, ann17, Hateful, Not hateful
+17, en-en, ann19, Hateful, Hateful
+17, en-en, ann22, Not hateful, Not hateful
+17, en-en, ann8, Hateful, Hateful
+17, en-en, ann20, Hateful, Not hateful
+17, en-en, ann13, Hateful, Hateful
+17, en-en, ann21, Hateful, Hateful
+17, en-en, ann15, Hateful, Hateful
+17, en-en, ann16, Hateful, Hateful
+17, en-en, ann9, Hateful, Hateful
+17, en-en, ann1, Not hateful, Not hateful
+17, en-en, ann5, Not hateful, Not hateful
+17, en-en, ann3, Hateful, Hateful
+17, en-en, ann12, Hateful, Not hateful
+2, en-en, ann7, Not hateful, Hateful
+2, en-en, ann11, Hateful, Hateful
+2, en-en, ann18, Hateful, Hateful
+2, en-en, ann14, Hateful, Hateful
+2, en-en, ann6, Not hateful, Not hateful
+2, en-en, ann2, Not hateful, Hateful
+2, en-en, ann10, Hateful, Hateful
+2, en-en, ann4, Hateful, Hateful
+2, en-en, ann17, Hateful, Hateful
+2, en-en, ann19, Hateful, Hateful
+2, en-en, ann22, Hateful, Hateful
+2, en-en, ann8, Hateful, Hateful
+2, en-en, ann20, Hateful, Not hateful
+2, en-en, ann13, Hateful, Hateful
+2, en-en, ann21, Not hateful, Hateful
+2, en-en, ann15, Hateful, Hateful
+2, en-en, ann16, Hateful, Hateful
+2, en-en, ann9, Hateful, Hateful
+2, en-en, ann1, Not hateful, Not hateful
+2, en-en, ann5, Hateful, Hateful
+2, en-en, ann3, Hateful, Hateful
+2, en-en, ann12, Not hateful, Not hateful
+69, de-de, ann7, Hateful, Not hateful
+69, de-de, ann11, Not hateful, Hateful
+69, de-de, ann18, Hateful, Hateful
+69, de-de, ann14, Hateful, Not hateful
+69, de-de, ann6, Not hateful, Not hateful
+69, de-de, ann2, Hateful, Hateful
+69, de-de, ann10, Not hateful, Not hateful
+69, de-de, ann4, Hateful, Hateful
+69, de-de, ann17, Hateful, Hateful
+69, de-de, ann19, Hateful, Hateful
+69, de-de, ann22, Not hateful, Hateful
+69, de-de, ann8, Hateful, Hateful
+69, de-de, ann20, Not hateful, Not hateful
+69, de-de, ann13, Hateful, Hateful
+69, de-de, ann21, Hateful, Hateful
+69, de-de, ann15, Hateful, Hateful
+69, de-de, ann16, Hateful, Hateful
+69, de-de, ann9, Not hateful, Hateful
+69, de-de, ann1, Not hateful, Not hateful
+69, de-de, ann5, Not hateful, Not hateful
+69, de-de, ann3, Hateful, Hateful
+69, de-de, ann12, Hateful, Not hateful
+72, de-de, ann7, Not hateful, Not hateful
+72, de-de, ann11, Not hateful, Not hateful
+72, de-de, ann18, Not hateful, Not hateful
+72, de-de, ann14, Not hateful, Not hateful
+72, de-de, ann6, Not hateful, Not hateful
+72, de-de, ann2, Not hateful, Not hateful
+72, de-de, ann10, Not hateful, Not hateful
+72, de-de, ann4, Not hateful, Not hateful
+72, de-de, ann17, Not hateful, Hateful
+72, de-de, ann19, Hateful, Hateful
+72, de-de, ann22, Not hateful, Not hateful
+72, de-de, ann8, Not hateful, Not hateful
+72, de-de, ann20, Not hateful, Not hateful
+72, de-de, ann13, Not hateful, Hateful
+72, de-de, ann21, Hateful, Hateful
+72, de-de, ann15, Hateful, Hateful
+72, de-de, ann16, Hateful, Hateful
+72, de-de, ann9, Not hateful, Not hateful
+72, de-de, ann1, Not hateful, Not hateful
+72, de-de, ann5, Not hateful, Not hateful
+72, de-de, ann3, Hateful, Hateful
+72, de-de, ann12, Not hateful, Not hateful
+44, en-de, ann7, Hateful, Hateful
+44, en-de, ann11, Hateful, Not hateful
+44, en-de, ann18, Hateful, Not hateful
+44, en-de, ann14, Hateful, Not hateful
+44, en-de, ann6, Not hateful, Not hateful
+44, en-de, ann2, Hateful, Hateful
+44, en-de, ann10, Hateful, Not hateful
+44, en-de, ann4, Hateful, Hateful
+44, en-de, ann17, Hateful, Hateful
+44, en-de, ann19, Hateful, Hateful
+44, en-de, ann22, Hateful, Not hateful
+44, en-de, ann8, Hateful, Not hateful
+44, en-de, ann20, Hateful, Hateful
+44, en-de, ann13, Hateful, Not hateful
+44, en-de, ann21, Hateful, Not hateful
+44, en-de, ann15, Hateful, Hateful
+44, en-de, ann16, Hateful, Hateful
+44, en-de, ann9, Hateful, Hateful
+44, en-de, ann1, Not hateful, Not hateful
+44, en-de, ann5, Not hateful, Hateful
+44, en-de, ann3, Hateful, Hateful
+44, en-de, ann12, Hateful, Not hateful
+42, en-de, ann7, Not hateful, Hateful
+42, en-de, ann11, Not hateful, Hateful
+42, en-de, ann18, Hateful, Not hateful
+42, en-de, ann14, Hateful, Hateful
+42, en-de, ann6, Not hateful, Not hateful
+42, en-de, ann2, Hateful, Hateful
+42, en-de, ann10, Not hateful, Hateful
+42, en-de, ann4, Hateful, Hateful
+42, en-de, ann17, Hateful, Hateful
+42, en-de, ann19, Hateful, Hateful
+42, en-de, ann22, Hateful, Hateful
+42, en-de, ann8, Hateful, Hateful
+42, en-de, ann20, Not hateful, Hateful
+42, en-de, ann13, Hateful, Hateful
+42, en-de, ann21, Hateful, Hateful
+42, en-de, ann15, Hateful, Hateful
+42, en-de, ann16, Hateful, Hateful
+42, en-de, ann9, Hateful, Hateful
+42, en-de, ann1, Hateful, Hateful
+42, en-de, ann5, Not hateful, Not hateful
+42, en-de, ann3, Hateful, Hateful
+42, en-de, ann12, Not hateful, Not hateful
+34, en-en, ann7, Hateful, Not hateful
+34, en-en, ann11, Not hateful, Not hateful
+34, en-en, ann18, Hateful, Not hateful
+34, en-en, ann14, Not hateful, Not hateful
+34, en-en, ann6, Not hateful, Not hateful
+34, en-en, ann2, Hateful, Hateful
+34, en-en, ann10, Not hateful, Not hateful
+34, en-en, ann4, Hateful, Not hateful
+34, en-en, ann17, Not hateful, Not hateful
+34, en-en, ann19, Hateful, Hateful
+34, en-en, ann22, Not hateful, Hateful
+34, en-en, ann8, Hateful, Not hateful
+34, en-en, ann20, Not hateful, Hateful
+34, en-en, ann13, Hateful, Hateful
+34, en-en, ann21, Hateful, Hateful
+34, en-en, ann15, Hateful, Hateful
+34, en-en, ann16, Hateful, Hateful
+34, en-en, ann9, Hateful, Hateful
+34, en-en, ann1, Not hateful, Hateful
+34, en-en, ann5, Not hateful, Not hateful
+34, en-en, ann3, Hateful, Hateful
+34, en-en, ann12, Not hateful, Not hateful
+33, en-de, ann7, Hateful, Hateful
+33, en-de, ann11, Not hateful, Hateful
+33, en-de, ann18, Hateful, Hateful
+33, en-de, ann14, Hateful, Hateful
+33, en-de, ann6, Hateful, Hateful
+33, en-de, ann2, Not hateful, Hateful
+33, en-de, ann10, Hateful, Hateful
+33, en-de, ann4, Hateful, Hateful
+33, en-de, ann17, Hateful, Hateful
+33, en-de, ann19, Hateful, Hateful
+33, en-de, ann22, Hateful, Hateful
+33, en-de, ann8, Hateful, Hateful
+33, en-de, ann20, Hateful, Hateful
+33, en-de, ann13, Hateful, Hateful
+33, en-de, ann21, Hateful, Hateful
+33, en-de, ann15, Hateful, Hateful
+33, en-de, ann16, Hateful, Hateful
+33, en-de, ann9, Hateful, Hateful
+33, en-de, ann1, Not hateful, Hateful
+33, en-de, ann5, Not hateful, Not hateful
+33, en-de, ann3, Hateful, Hateful
+33, en-de, ann12, Hateful, Hateful
+66, de-de, ann7, Hateful, Not hateful
+66, de-de, ann11, Not hateful, Not hateful
+66, de-de, ann18, Hateful, Not hateful
+66, de-de, ann14, Hateful, Not hateful
+66, de-de, ann6, Not hateful, Not hateful
+66, de-de, ann2, Not hateful, Not hateful
+66, de-de, ann10, Not hateful, Not hateful
+66, de-de, ann4, Hateful, Hateful
+66, de-de, ann17, Hateful, Not hateful
+66, de-de, ann19, Hateful, Hateful
+66, de-de, ann22, Not hateful, Not hateful
+66, de-de, ann8, Hateful, Hateful
+66, de-de, ann20, Hateful, Not hateful
+66, de-de, ann13, Hateful, Hateful
+66, de-de, ann21, Not hateful, Not hateful
+66, de-de, ann15, Hateful, Hateful
+66, de-de, ann16, Not hateful, Not hateful
+66, de-de, ann9, Hateful, Not hateful
+66, de-de, ann1, Not hateful, Not hateful
+66, de-de, ann5, Not hateful, Not hateful
+66, de-de, ann3, Hateful, Hateful
+66, de-de, ann12, Not hateful, Not hateful
+19, en-en, ann7, Hateful, Not hateful
+19, en-en, ann11, Not hateful, Not hateful
+19, en-en, ann18, Hateful, Hateful
+19, en-en, ann14, Hateful, Hateful
+19, en-en, ann6, Hateful, Hateful
+19, en-en, ann2, Hateful, Hateful
+19, en-en, ann10, Not hateful, Hateful
+19, en-en, ann4, Hateful, Hateful
+19, en-en, ann17, Hateful, Hateful
+19, en-en, ann19, Hateful, Hateful
+19, en-en, ann22, Hateful, Hateful
+19, en-en, ann8, Hateful, Hateful
+19, en-en, ann20, Hateful, Hateful
+19, en-en, ann13, Hateful, Hateful
+19, en-en, ann21, Hateful, Not hateful
+19, en-en, ann15, Hateful, Hateful
+19, en-en, ann16, Hateful, Hateful
+19, en-en, ann9, Hateful, Hateful
+19, en-en, ann1, Not hateful, Hateful
+19, en-en, ann5, Not hateful, Hateful
+19, en-en, ann3, Hateful, Hateful
+19, en-en, ann12, Hateful, Hateful
+47, en-de, ann7, Hateful, Hateful
+47, en-de, ann11, Not hateful, Not hateful
+47, en-de, ann18, Hateful, Hateful
+47, en-de, ann14, Hateful, Hateful
+47, en-de, ann6, Hateful, Hateful
+47, en-de, ann2, Hateful, Hateful
+47, en-de, ann10, Hateful, Hateful
+47, en-de, ann4, Hateful, Hateful
+47, en-de, ann17, Hateful, Hateful
+47, en-de, ann19, Hateful, Hateful
+47, en-de, ann22, Hateful, Not hateful
+47, en-de, ann8, Hateful, Hateful
+47, en-de, ann20, Hateful, Hateful
+47, en-de, ann13, Hateful, Hateful
+47, en-de, ann21, Hateful, Hateful
+47, en-de, ann15, Hateful, Hateful
+47, en-de, ann16, Hateful, Hateful
+47, en-de, ann9, Hateful, Not hateful
+47, en-de, ann1, Not hateful, Not hateful
+47, en-de, ann5, Not hateful, Not hateful
+47, en-de, ann3, Hateful, Hateful
+47, en-de, ann12, Not hateful, Not hateful
+14, en-en, ann7, Not hateful, Not hateful
+14, en-en, ann11, Not hateful, Not hateful
+14, en-en, ann18, Hateful, Hateful
+14, en-en, ann14, Not hateful, Not hateful
+14, en-en, ann6, Hateful, Not hateful
+14, en-en, ann2, Hateful, Not hateful
+14, en-en, ann10, Not hateful, Hateful
+14, en-en, ann4, Hateful, Not hateful
+14, en-en, ann17, Hateful, Hateful
+14, en-en, ann19, Hateful, Not hateful
+14, en-en, ann22, Not hateful, Not hateful
+14, en-en, ann8, Hateful, Hateful
+14, en-en, ann20, Not hateful, Not hateful
+14, en-en, ann13, Hateful, Hateful
+14, en-en, ann21, Not hateful, Not hateful
+14, en-en, ann15, Hateful, Hateful
+14, en-en, ann16, Not hateful, Not hateful
+14, en-en, ann9, Not hateful, Hateful
+14, en-en, ann1, Not hateful, Not hateful
+14, en-en, ann5, Not hateful, Not hateful
+14, en-en, ann3, Hateful, Not hateful
+14, en-en, ann12, Not hateful, Not hateful
+84, de-en, ann7, Not hateful, Not hateful
+84, de-en, ann11, Not hateful, Not hateful
+84, de-en, ann18, Not hateful, Not hateful
+84, de-en, ann14, Not hateful, Not hateful
+84, de-en, ann6, Not hateful, Not hateful
+84, de-en, ann2, Not hateful, Not hateful
+84, de-en, ann10, Not hateful, Not hateful
+84, de-en, ann4, Not hateful, Not hateful
+84, de-en, ann17, Not hateful, Not hateful
+84, de-en, ann19, Not hateful, Not hateful
+84, de-en, ann22, Not hateful, Not hateful
+84, de-en, ann8, Not hateful, Not hateful
+84, de-en, ann20, Hateful, Not hateful
+84, de-en, ann13, Not hateful, Not hateful
+84, de-en, ann21, Not hateful, Not hateful
+84, de-en, ann15, Not hateful, Not hateful
+84, de-en, ann16, Not hateful, Not hateful
+84, de-en, ann9, Not hateful, Not hateful
+84, de-en, ann1, Not hateful, Not hateful
+84, de-en, ann5, Not hateful, Not hateful
+84, de-en, ann3, Not hateful, Not hateful
+84, de-en, ann12, Not hateful, Not hateful
+27, en-de, ann7, Hateful, Hateful
+27, en-de, ann11, Not hateful, Hateful
+27, en-de, ann18, Hateful, Hateful
+27, en-de, ann14, Not hateful, Not hateful
+27, en-de, ann6, Hateful, Not hateful
+27, en-de, ann2, Not hateful, Hateful
+27, en-de, ann10, Hateful, Hateful
+27, en-de, ann4, Hateful, Hateful
+27, en-de, ann17, Hateful, Hateful
+27, en-de, ann19, Hateful, Hateful
+27, en-de, ann22, Hateful, Hateful
+27, en-de, ann8, Hateful, Hateful
+27, en-de, ann20, Not hateful, Hateful
+27, en-de, ann13, Hateful, Hateful
+27, en-de, ann21, Hateful, Hateful
+27, en-de, ann15, Hateful, Hateful
+27, en-de, ann16, Hateful, Hateful
+27, en-de, ann9, Hateful, Hateful
+27, en-de, ann1, Not hateful, Hateful
+27, en-de, ann5, Not hateful, Not hateful
+27, en-de, ann3, Hateful, Hateful
+27, en-de, ann12, Not hateful, Not hateful
+80, de-en, ann7, Not hateful, Not hateful
+80, de-en, ann11, Not hateful, Not hateful
+80, de-en, ann18, Not hateful, Hateful
+80, de-en, ann14, Not hateful, Not hateful
+80, de-en, ann6, Hateful, Hateful
+80, de-en, ann2, Hateful, Not hateful
+80, de-en, ann10, Not hateful, Not hateful
+80, de-en, ann4, Hateful, Hateful
+80, de-en, ann17, Not hateful, Not hateful
+80, de-en, ann19, Hateful, Hateful
+80, de-en, ann22, Hateful, Not hateful
+80, de-en, ann8, Hateful, Not hateful
+80, de-en, ann20, Not hateful, Not hateful
+80, de-en, ann13, Hateful, Hateful
+80, de-en, ann21, Not hateful, Not hateful
+80, de-en, ann15, Hateful, Hateful
+80, de-en, ann16, Not hateful, Hateful
+80, de-en, ann9, Hateful, Hateful
+80, de-en, ann1, Not hateful, Not hateful
+80, de-en, ann5, Not hateful, Not hateful
+80, de-en, ann3, Hateful, Hateful
+80, de-en, ann12, Not hateful, Hateful
+45, en-de, ann7, Hateful, Not hateful
+45, en-de, ann11, Not hateful, Not hateful
+45, en-de, ann18, Hateful, Hateful
+45, en-de, ann14, Not hateful, Hateful
+45, en-de, ann6, Hateful, Hateful
+45, en-de, ann2, Hateful, Hateful
+45, en-de, ann10, Hateful, Hateful
+45, en-de, ann4, Hateful, Not hateful
+45, en-de, ann17, Hateful, Hateful
+45, en-de, ann19, Hateful, Hateful
+45, en-de, ann22, Hateful, Hateful
+45, en-de, ann8, Hateful, Hateful
+45, en-de, ann20, Hateful, Hateful
+45, en-de, ann13, Hateful, Not hateful
+45, en-de, ann21, Not hateful, Not hateful
+45, en-de, ann15, Hateful, Hateful
+45, en-de, ann16, Hateful, Hateful
+45, en-de, ann9, Hateful, Hateful
+45, en-de, ann1, Not hateful, Not hateful
+45, en-de, ann5, Not hateful, Not hateful
+45, en-de, ann3, Hateful, Hateful
+45, en-de, ann12, Hateful, Hateful
+65, de-de, ann7, Hateful, Hateful
+65, de-de, ann11, Not hateful, Hateful
+65, de-de, ann18, Not hateful, Not hateful
+65, de-de, ann14, Not hateful, Not hateful
+65, de-de, ann6, Not hateful, Not hateful
+65, de-de, ann2, Not hateful, Hateful
+65, de-de, ann10, Hateful, Not hateful
+65, de-de, ann4, Hateful, Hateful
+65, de-de, ann17, Hateful, Hateful
+65, de-de, ann19, Hateful, Hateful
+65, de-de, ann22, Not hateful, Not hateful
+65, de-de, ann8, Hateful, Hateful
+65, de-de, ann20, Hateful, Hateful
+65, de-de, ann13, Hateful, Hateful
+65, de-de, ann21, Hateful, Not hateful
+65, de-de, ann15, Hateful, Not hateful
+65, de-de, ann16, Hateful, Hateful
+65, de-de, ann9, Hateful, Not hateful
+65, de-de, ann1, Hateful, Hateful
+65, de-de, ann5, Not hateful, Hateful
+65, de-de, ann3, Hateful, Hateful
+65, de-de, ann12, Not hateful, Not hateful
+22, en-en, ann7, Not hateful, Not hateful
+22, en-en, ann11, Hateful, Not hateful
+22, en-en, ann18, Not hateful, Not hateful
+22, en-en, ann14, Not hateful, Hateful
+22, en-en, ann6, Not hateful, Not hateful
+22, en-en, ann2, Not hateful, Not hateful
+22, en-en, ann10, Hateful, Not hateful
+22, en-en, ann4, Hateful, Not hateful
+22, en-en, ann17, Hateful, Not hateful
+22, en-en, ann19, Hateful, Hateful
+22, en-en, ann22, Not hateful, Not hateful
+22, en-en, ann8, Not hateful, Not hateful
+22, en-en, ann20, Hateful, Not hateful
+22, en-en, ann13, Hateful, Not hateful
+22, en-en, ann21, Not hateful, Not hateful
+22, en-en, ann15, Hateful, Hateful
+22, en-en, ann16, Not hateful, Not hateful
+22, en-en, ann9, Not hateful, Not hateful
+22, en-en, ann1, Not hateful, Not hateful
+22, en-en, ann5, Not hateful, Not hateful
+22, en-en, ann3, Hateful, Hateful
+22, en-en, ann12, Not hateful, Hateful
+88, de-en, ann7, Hateful, Not hateful
+88, de-en, ann11, Hateful, Hateful
+88, de-en, ann18, Hateful, Hateful
+88, de-en, ann14, Hateful, Hateful
+88, de-en, ann6, Hateful, Hateful
+88, de-en, ann2, Hateful, Hateful
+88, de-en, ann10, Hateful, Hateful
+88, de-en, ann4, Hateful, Hateful
+88, de-en, ann17, Hateful, Hateful
+88, de-en, ann19, Hateful, Hateful
+88, de-en, ann22, Hateful, Hateful
+88, de-en, ann8, Hateful, Hateful
+88, de-en, ann20, Hateful, Hateful
+88, de-en, ann13, Hateful, Hateful
+88, de-en, ann21, Hateful, Hateful
+88, de-en, ann15, Hateful, Hateful
+88, de-en, ann16, Hateful, Hateful
+88, de-en, ann9, Hateful, Hateful
+88, de-en, ann1, Hateful, Hateful
+88, de-en, ann5, Hateful, Hateful
+88, de-en, ann3, Hateful, Hateful
+88, de-en, ann12, Hateful, Hateful
+60, de-de, ann7, Hateful, Not hateful
+60, de-de, ann11, Not hateful, Hateful
+60, de-de, ann18, Not hateful, Not hateful
+60, de-de, ann14, Hateful, Hateful
+60, de-de, ann6, Hateful, Hateful
+60, de-de, ann2, Hateful, Not hateful
+60, de-de, ann10, Hateful, Hateful
+60, de-de, ann4, Hateful, Hateful
+60, de-de, ann17, Hateful, Hateful
+60, de-de, ann19, Hateful, Hateful
+60, de-de, ann22, Hateful, Not hateful
+60, de-de, ann8, Hateful, Hateful
+60, de-de, ann20, Not hateful, Hateful
+60, de-de, ann13, Hateful, Hateful
+60, de-de, ann21, Hateful, Hateful
+60, de-de, ann15, Hateful, Hateful
+60, de-de, ann16, Hateful, Hateful
+60, de-de, ann9, Hateful, Hateful
+60, de-de, ann1, Hateful, Hateful
+60, de-de, ann5, Not hateful, Not hateful
+60, de-de, ann3, Hateful, Hateful
+60, de-de, ann12, Hateful, Not hateful
+73, de-de, ann7, Not hateful, Not hateful
+73, de-de, ann11, Hateful, Not hateful
+73, de-de, ann18, Not hateful, Not hateful
+73, de-de, ann14, Not hateful, Hateful
+73, de-de, ann6, Not hateful, Not hateful
+73, de-de, ann2, Not hateful, Not hateful
+73, de-de, ann10, Not hateful, Not hateful
+73, de-de, ann4, Hateful, Not hateful
+73, de-de, ann17, Not hateful, Not hateful
+73, de-de, ann19, Not hateful, Not hateful
+73, de-de, ann22, Not hateful, Not hateful
+73, de-de, ann8, Not hateful, Not hateful
+73, de-de, ann20, Not hateful, Not hateful
+73, de-de, ann13, Hateful, Hateful
+73, de-de, ann21, Not hateful, Not hateful
+73, de-de, ann15, Hateful, Hateful
+73, de-de, ann16, Not hateful, Hateful
+73, de-de, ann9, Hateful, Not hateful
+73, de-de, ann1, Not hateful, Not hateful
+73, de-de, ann5, Not hateful, Not hateful
+73, de-de, ann3, Hateful, Hateful
+73, de-de, ann12, Not hateful, Not hateful
+77, de-en, ann7, Not hateful, Not hateful
+77, de-en, ann11, Not hateful, Not hateful
+77, de-en, ann18, Not hateful, Not hateful
+77, de-en, ann14, Not hateful, Not hateful
+77, de-en, ann6, Not hateful, Not hateful
+77, de-en, ann2, Not hateful, Not hateful
+77, de-en, ann10, Not hateful, Not hateful
+77, de-en, ann4, Not hateful, Not hateful
+77, de-en, ann17, Not hateful, Not hateful
+77, de-en, ann19, Not hateful, Not hateful
+77, de-en, ann22, Not hateful, Not hateful
+77, de-en, ann8, Not hateful, Not hateful
+77, de-en, ann20, Not hateful, Not hateful
+77, de-en, ann13, Not hateful, Not hateful
+77, de-en, ann21, Not hateful, Not hateful
+77, de-en, ann15, Not hateful, Not hateful
+77, de-en, ann16, Not hateful, Not hateful
+77, de-en, ann9, Not hateful, Not hateful
+77, de-en, ann1, Not hateful, Not hateful
+77, de-en, ann5, Hateful, Not hateful
+77, de-en, ann3, Not hateful, Hateful
+77, de-en, ann12, Not hateful, Not hateful
+52, de-de, ann7, Not hateful, Not hateful
+52, de-de, ann11, Hateful, Not hateful
+52, de-de, ann18, Not hateful, Not hateful
+52, de-de, ann14, Not hateful, Hateful
+52, de-de, ann6, Not hateful, Not hateful
+52, de-de, ann2, Not hateful, Not hateful
+52, de-de, ann10, Not hateful, Not hateful
+52, de-de, ann4, Hateful, Hateful
+52, de-de, ann17, Hateful, Hateful
+52, de-de, ann19, Hateful, Hateful
+52, de-de, ann22, Not hateful, Hateful
+52, de-de, ann8, Not hateful, Not hateful
+52, de-de, ann20, Not hateful, Not hateful
+52, de-de, ann13, Hateful, Hateful
+52, de-de, ann21, Not hateful, Hateful
+52, de-de, ann15, Hateful, Hateful
+52, de-de, ann16, Hateful, Hateful
+52, de-de, ann9, Not hateful, Not hateful
+52, de-de, ann1, Hateful, Hateful
+52, de-de, ann5, Hateful, Not hateful
+52, de-de, ann3, Hateful, Hateful
+52, de-de, ann12, Hateful, Hateful
+13, en-en, ann7, Not hateful, Not hateful
+13, en-en, ann11, Not hateful, Not hateful
+13, en-en, ann18, Not hateful, Not hateful
+13, en-en, ann14, Not hateful, Not hateful
+13, en-en, ann6, Not hateful, Not hateful
+13, en-en, ann2, Not hateful, Not hateful
+13, en-en, ann10, Not hateful, Not hateful
+13, en-en, ann4, Not hateful, Not hateful
+13, en-en, ann17, Hateful, Not hateful
+13, en-en, ann19, Hateful, Hateful
+13, en-en, ann22, Not hateful, Not hateful
+13, en-en, ann8, Not hateful, Not hateful
+13, en-en, ann20, Hateful, Not hateful
+13, en-en, ann13, Hateful, Not hateful
+13, en-en, ann21, Not hateful, Hateful
+13, en-en, ann15, Hateful, Hateful
+13, en-en, ann16, Not hateful, Hateful
+13, en-en, ann9, Not hateful, Not hateful
+13, en-en, ann1, Not hateful, Not hateful
+13, en-en, ann5, Not hateful, Not hateful
+13, en-en, ann3, Hateful, Hateful
+13, en-en, ann12, Not hateful, Not hateful
+36, en-de, ann7, Hateful, Hateful
+36, en-de, ann11, Not hateful, Not hateful
+36, en-de, ann18, Hateful, Hateful
+36, en-de, ann14, Not hateful, Hateful
+36, en-de, ann6, Not hateful, Not hateful
+36, en-de, ann2, Not hateful, Hateful
+36, en-de, ann10, Not hateful, Hateful
+36, en-de, ann4, Hateful, Hateful
+36, en-de, ann17, Hateful, Hateful
+36, en-de, ann19, Hateful, Hateful
+36, en-de, ann22, Not hateful, Hateful
+36, en-de, ann8, Hateful, Hateful
+36, en-de, ann20, Hateful, Hateful
+36, en-de, ann13, Hateful, Hateful
+36, en-de, ann21, Hateful, Hateful
+36, en-de, ann15, Hateful, Hateful
+36, en-de, ann16, Hateful, Not hateful
+36, en-de, ann9, Hateful, Hateful
+36, en-de, ann1, Not hateful, Not hateful
+36, en-de, ann5, Not hateful, Not hateful
+36, en-de, ann3, Hateful, Hateful
+36, en-de, ann12, Not hateful, Hateful
+62, de-de, ann7, Not hateful, Not hateful
+62, de-de, ann11, Not hateful, Not hateful
+62, de-de, ann18, Hateful, Not hateful
+62, de-de, ann14, Not hateful, Not hateful
+62, de-de, ann6, Not hateful, Not hateful
+62, de-de, ann2, Not hateful, Not hateful
+62, de-de, ann10, Not hateful, Not hateful
+62, de-de, ann4, Not hateful, Not hateful
+62, de-de, ann17, Not hateful, Not hateful
+62, de-de, ann19, Hateful, Not hateful
+62, de-de, ann22, Not hateful, Not hateful
+62, de-de, ann8, Not hateful, Not hateful
+62, de-de, ann20, Not hateful, Not hateful
+62, de-de, ann13, Not hateful, Hateful
+62, de-de, ann21, Not hateful, Hateful
+62, de-de, ann15, Not hateful, Not hateful
+62, de-de, ann16, Not hateful, Not hateful
+62, de-de, ann9, Not hateful, Not hateful
+62, de-de, ann1, Not hateful, Not hateful
+62, de-de, ann5, Not hateful, Not hateful
+62, de-de, ann3, Hateful, Hateful
+62, de-de, ann12, Not hateful, Not hateful
+18, en-en, ann7, Not hateful, Not hateful
+18, en-en, ann11, Not hateful, Not hateful
+18, en-en, ann18, Not hateful, Hateful
+18, en-en, ann14, Not hateful, Not hateful
+18, en-en, ann6, Not hateful, Not hateful
+18, en-en, ann2, Not hateful, Not hateful
+18, en-en, ann10, Not hateful, Not hateful
+18, en-en, ann4, Not hateful, Not hateful
+18, en-en, ann17, Not hateful, Not hateful
+18, en-en, ann19, Not hateful, Not hateful
+18, en-en, ann22, Not hateful, Not hateful
+18, en-en, ann8, Not hateful, Not hateful
+18, en-en, ann20, Not hateful, Hateful
+18, en-en, ann13, Not hateful, Not hateful
+18, en-en, ann21, Not hateful, Hateful
+18, en-en, ann15, Not hateful, Not hateful
+18, en-en, ann16, Not hateful, Not hateful
+18, en-en, ann9, Not hateful, Not hateful
+18, en-en, ann1, Not hateful, Not hateful
+18, en-en, ann5, Not hateful, Not hateful
+18, en-en, ann3, Hateful, Hateful
+18, en-en, ann12, Not hateful, Not hateful
+12, en-en, ann7, Not hateful, Not hateful
+12, en-en, ann11, Hateful, Not hateful
+12, en-en, ann18, Hateful, Hateful
+12, en-en, ann14, Not hateful, Not hateful
+12, en-en, ann6, Not hateful, Hateful
+12, en-en, ann2, Not hateful, Not hateful
+12, en-en, ann10, Hateful, Hateful
+12, en-en, ann4, Hateful, Hateful
+12, en-en, ann17, Hateful, Not hateful
+12, en-en, ann19, Hateful, Not hateful
+12, en-en, ann22, Not hateful, Not hateful
+12, en-en, ann8, Hateful, Hateful
+12, en-en, ann20, Hateful, Not hateful
+12, en-en, ann13, Hateful, Hateful
+12, en-en, ann21, Not hateful, Not hateful
+12, en-en, ann15, Hateful, Not hateful
+12, en-en, ann16, Hateful, Hateful
+12, en-en, ann9, Hateful, Hateful
+12, en-en, ann1, Not hateful, Not hateful
+12, en-en, ann5, Not hateful, Not hateful
+12, en-en, ann3, Hateful, Hateful
+12, en-en, ann12, Hateful, Hateful
+79, de-en, ann7, Not hateful, Not hateful
+79, de-en, ann11, Hateful, Not hateful
+79, de-en, ann18, Hateful, Hateful
+79, de-en, ann14, Not hateful, Hateful
+79, de-en, ann6, Not hateful, Not hateful
+79, de-en, ann2, Not hateful, Not hateful
+79, de-en, ann10, Hateful, Hateful
+79, de-en, ann4, Hateful, Hateful
+79, de-en, ann17, Hateful, Hateful
+79, de-en, ann19, Hateful, Hateful
+79, de-en, ann22, Not hateful, Hateful
+79, de-en, ann8, Hateful, Hateful
+79, de-en, ann20, Hateful, Hateful
+79, de-en, ann13, Hateful, Hateful
+79, de-en, ann21, Not hateful, Hateful
+79, de-en, ann15, Hateful, Hateful
+79, de-en, ann16, Hateful, Hateful
+79, de-en, ann9, Not hateful, Hateful
+79, de-en, ann1, Not hateful, Not hateful
+79, de-en, ann5, Not hateful, Not hateful
+79, de-en, ann3, Hateful, Hateful
+79, de-en, ann12, Not hateful, Hateful
