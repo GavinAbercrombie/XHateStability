@@ -15,8 +15,4 @@ Data is presented in `annotations.csv`, with the following columns:
  
  `label2`: label applied in round 2
 
-The order in which the items were presented to participants in available in `order.csv`. Columns:
-
- `row`: the row number of the text item from the original dataset
- 
-  `language`: the language in which the item was presented (`en`/`de`)
+The order in which the items were presented to participants in available in `order.csv`. This data is presented in tow columns for `round1` and `round2`, with the language and row number of each item.
