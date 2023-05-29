@@ -1,0 +1,9 @@
+## Instructions
+
+We define hateful speech to be the language which explicitly or implicitly threatens or demeans a person or a group based upon a facet of their identity such as gender, ethnicity, or sexual orientation.
+
+Read the following **100** posts, which are written in either English or German.
+
+Do you think that they are **Hateful** or **Not hateful**?
+
+If you're not sure, select the option that seems most likely to you.Examples:"Feminism is a disease. An absence of God, loving or caring, for one thing . " Hateful"@username Oh Bulls**t. I'm a feminist and nothing like this witch. Feminism is about equality in the workplace and not being treated like second class citizens. Shows how much you know. God has nothing to do with it. " Not hateful
